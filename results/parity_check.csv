@@ -1,0 +1,9 @@
+model,clips,rank_corr
+AASIST,24,0.989
+W2V2-AASIST,24,0.997
+ProSDD (ASVspoof2019),24,1.0
+ProSDD (ASVspoof5),24,1.0
+Pellav2,24,1.0
+SONAR,24,0.993
+NII MMS-1B,24,0.828
+NII XLS-R-2B,24,0.918

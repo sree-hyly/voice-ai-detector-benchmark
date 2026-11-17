@@ -1,0 +1,233 @@
+file,group,is_ai,source,seconds
+data/clips_b/human_call/en_AU_Entertainment_1592670_channel1.wav,human_call,0,AppTek call-center (en-AU),6.0
+data/clips_b/human_call_phone/en_AU_Entertainment_1592670_channel1.wav,human_call_phone,0,AppTek call-center (en-AU) (via phone line),6.0
+data/clips_b/human_call/en_AU_DeliveryService_1585416_channel1.wav,human_call,0,AppTek call-center (en-AU),6.0
+data/clips_b/human_call_phone/en_AU_DeliveryService_1585416_channel1.wav,human_call_phone,0,AppTek call-center (en-AU) (via phone line),6.0
+data/clips_b/human_call/en_AU_Food_1586372_channel1.wav,human_call,0,AppTek call-center (en-AU),6.0
+data/clips_b/human_call_phone/en_AU_Food_1586372_channel1.wav,human_call_phone,0,AppTek call-center (en-AU) (via phone line),6.0
+data/clips_b/human_call/en_AU_RealEstate_1586372_channel2.wav,human_call,0,AppTek call-center (en-AU),6.0
+data/clips_b/human_call_phone/en_AU_RealEstate_1586372_channel2.wav,human_call_phone,0,AppTek call-center (en-AU) (via phone line),6.0
+data/clips_b/human_call/en_CA_Insurance_1590855_channel1.wav,human_call,0,AppTek call-center (en-CA),6.0
+data/clips_b/human_call_phone/en_CA_Insurance_1590855_channel1.wav,human_call_phone,0,AppTek call-center (en-CA) (via phone line),6.0
+data/clips_b/human_call/en_CA_Aviation_1586888_channel1.wav,human_call,0,AppTek call-center (en-CA),6.0
+data/clips_b/human_call_phone/en_CA_Aviation_1586888_channel1.wav,human_call_phone,0,AppTek call-center (en-CA) (via phone line),6.0
+data/clips_b/human_call/en_CA_Travel_1590991_channel1.wav,human_call,0,AppTek call-center (en-CA),6.0
+data/clips_b/human_call_phone/en_CA_Travel_1590991_channel1.wav,human_call_phone,0,AppTek call-center (en-CA) (via phone line),6.0
+data/clips_b/human_call/en_CA_Health_1590851_channel2.wav,human_call,0,AppTek call-center (en-CA),6.0
+data/clips_b/human_call_phone/en_CA_Health_1590851_channel2.wav,human_call_phone,0,AppTek call-center (en-CA) (via phone line),6.0
+data/clips_b/human_call/en_CN_Insurance_1584554_channel2.wav,human_call,0,AppTek call-center (en-CN),6.0
+data/clips_b/human_call_phone/en_CN_Insurance_1584554_channel2.wav,human_call_phone,0,AppTek call-center (en-CN) (via phone line),6.0
+data/clips_b/human_call/en_CN_Aviation_1584419_channel1.wav,human_call,0,AppTek call-center (en-CN),6.0
+data/clips_b/human_call_phone/en_CN_Aviation_1584419_channel1.wav,human_call_phone,0,AppTek call-center (en-CN) (via phone line),6.0
+data/clips_b/human_call/en_CN_Entertainment_1586203_channel1.wav,human_call,0,AppTek call-center (en-CN),6.0
+data/clips_b/human_call_phone/en_CN_Entertainment_1586203_channel1.wav,human_call_phone,0,AppTek call-center (en-CN) (via phone line),6.0
+data/clips_b/human_call/en_CN_Banking_1581914_channel1.wav,human_call,0,AppTek call-center (en-CN),6.0
+data/clips_b/human_call_phone/en_CN_Banking_1581914_channel1.wav,human_call_phone,0,AppTek call-center (en-CN) (via phone line),6.0
+data/clips_b/human_call/en_GB_Aviation_1586512_channel1.wav,human_call,0,AppTek call-center (en-GB),6.0
+data/clips_b/human_call_phone/en_GB_Aviation_1586512_channel1.wav,human_call_phone,0,AppTek call-center (en-GB) (via phone line),6.0
+data/clips_b/human_call/en_GB_RealEstate_1585498_channel1.wav,human_call,0,AppTek call-center (en-GB),6.0
+data/clips_b/human_call_phone/en_GB_RealEstate_1585498_channel1.wav,human_call_phone,0,AppTek call-center (en-GB) (via phone line),6.0
+data/clips_b/human_call/en_GB_Aviation_1585547_channel2.wav,human_call,0,AppTek call-center (en-GB),6.0
+data/clips_b/human_call_phone/en_GB_Aviation_1585547_channel2.wav,human_call_phone,0,AppTek call-center (en-GB) (via phone line),6.0
+data/clips_b/human_call/en_GB_Finance_1582214_channel2.wav,human_call,0,AppTek call-center (en-GB),6.0
+data/clips_b/human_call_phone/en_GB_Finance_1582214_channel2.wav,human_call_phone,0,AppTek call-center (en-GB) (via phone line),6.0
+data/clips_b/human_call/en_GB_SCT_Energy_1593375_channel1.wav,human_call,0,AppTek call-center (en-GB_SCT),6.0
+data/clips_b/human_call_phone/en_GB_SCT_Energy_1593375_channel1.wav,human_call_phone,0,AppTek call-center (en-GB_SCT) (via phone line),6.0
+data/clips_b/human_call/en_GB_SCT_DeliveryService_1593703_channel1.wav,human_call,0,AppTek call-center (en-GB_SCT),6.0
+data/clips_b/human_call_phone/en_GB_SCT_DeliveryService_1593703_channel1.wav,human_call_phone,0,AppTek call-center (en-GB_SCT) (via phone line),6.0
+data/clips_b/human_call/en_GB_SCT_Hospitality_1593041_channel2.wav,human_call,0,AppTek call-center (en-GB_SCT),6.0
+data/clips_b/human_call_phone/en_GB_SCT_Hospitality_1593041_channel2.wav,human_call_phone,0,AppTek call-center (en-GB_SCT) (via phone line),6.0
+data/clips_b/human_call/en_GB_SCT_Entertainment_1593488_channel1.wav,human_call,0,AppTek call-center (en-GB_SCT),6.0
+data/clips_b/human_call_phone/en_GB_SCT_Entertainment_1593488_channel1.wav,human_call_phone,0,AppTek call-center (en-GB_SCT) (via phone line),6.0
+data/clips_b/human_call/en_GB_WLS_Banking_1587929_channel2.wav,human_call,0,AppTek call-center (en-GB_WLS),6.0
+data/clips_b/human_call_phone/en_GB_WLS_Banking_1587929_channel2.wav,human_call_phone,0,AppTek call-center (en-GB_WLS) (via phone line),6.0
+data/clips_b/human_call/en_GB_WLS_Banking_1581853_channel2.wav,human_call,0,AppTek call-center (en-GB_WLS),6.0
+data/clips_b/human_call_phone/en_GB_WLS_Banking_1581853_channel2.wav,human_call_phone,0,AppTek call-center (en-GB_WLS) (via phone line),6.0
+data/clips_b/human_call/en_GB_WLS_Finance_1588760_channel2.wav,human_call,0,AppTek call-center (en-GB_WLS),6.0
+data/clips_b/human_call_phone/en_GB_WLS_Finance_1588760_channel2.wav,human_call_phone,0,AppTek call-center (en-GB_WLS) (via phone line),6.0
+data/clips_b/human_call/en_GB_WLS_Travel_1593363_channel2.wav,human_call,0,AppTek call-center (en-GB_WLS),6.0
+data/clips_b/human_call_phone/en_GB_WLS_Travel_1593363_channel2.wav,human_call_phone,0,AppTek call-center (en-GB_WLS) (via phone line),6.0
+data/clips_b/human_call/en_IE_Entertainment_1590962_channel1.wav,human_call,0,AppTek call-center (en-IE),6.0
+data/clips_b/human_call_phone/en_IE_Entertainment_1590962_channel1.wav,human_call_phone,0,AppTek call-center (en-IE) (via phone line),6.0
+data/clips_b/human_call/en_IE_Entertainment_1586643_channel1.wav,human_call,0,AppTek call-center (en-IE),6.0
+data/clips_b/human_call_phone/en_IE_Entertainment_1586643_channel1.wav,human_call_phone,0,AppTek call-center (en-IE) (via phone line),6.0
+data/clips_b/human_call/en_IE_DeliveryService_1590957_channel1.wav,human_call,0,AppTek call-center (en-IE),6.0
+data/clips_b/human_call_phone/en_IE_DeliveryService_1590957_channel1.wav,human_call_phone,0,AppTek call-center (en-IE) (via phone line),6.0
+data/clips_b/human_call/en_IE_Retail_1592989_channel2.wav,human_call,0,AppTek call-center (en-IE),6.0
+data/clips_b/human_call_phone/en_IE_Retail_1592989_channel2.wav,human_call_phone,0,AppTek call-center (en-IE) (via phone line),6.0
+data/clips_b/human_call/en_IN_Travel_001_20250925_channel2.wav,human_call,0,AppTek call-center (en-IN),6.0
+data/clips_b/human_call_phone/en_IN_Travel_001_20250925_channel2.wav,human_call_phone,0,AppTek call-center (en-IN) (via phone line),6.0
+data/clips_b/human_call/en_IN_Telecom_003_20250917_channel1.wav,human_call,0,AppTek call-center (en-IN),6.0
+data/clips_b/human_call_phone/en_IN_Telecom_003_20250917_channel1.wav,human_call_phone,0,AppTek call-center (en-IN) (via phone line),6.0
+data/clips_b/human_call/en_IN_Health_001_20251010_channel1.wav,human_call,0,AppTek call-center (en-IN),6.0
+data/clips_b/human_call_phone/en_IN_Health_001_20251010_channel1.wav,human_call_phone,0,AppTek call-center (en-IN) (via phone line),6.0
+data/clips_b/human_call/en_IN_Retail_004_20250928_channel2.wav,human_call,0,AppTek call-center (en-IN),6.0
+data/clips_b/human_call_phone/en_IN_Retail_004_20250928_channel2.wav,human_call_phone,0,AppTek call-center (en-IN) (via phone line),6.0
+data/clips_b/human_call/en_MX_Banking_1586874_channel2.wav,human_call,0,AppTek call-center (en-MX),6.0
+data/clips_b/human_call_phone/en_MX_Banking_1586874_channel2.wav,human_call_phone,0,AppTek call-center (en-MX) (via phone line),6.0
+data/clips_b/human_call/en_MX_Technology_1584588_channel2.wav,human_call,0,AppTek call-center (en-MX),6.0
+data/clips_b/human_call_phone/en_MX_Technology_1584588_channel2.wav,human_call_phone,0,AppTek call-center (en-MX) (via phone line),6.0
+data/clips_b/human_call/en_MX_Entertainment_1587134_channel1.wav,human_call,0,AppTek call-center (en-MX),6.0
+data/clips_b/human_call_phone/en_MX_Entertainment_1587134_channel1.wav,human_call_phone,0,AppTek call-center (en-MX) (via phone line),6.0
+data/clips_b/human_call/en_MX_Banking_1586740_channel1.wav,human_call,0,AppTek call-center (en-MX),6.0
+data/clips_b/human_call_phone/en_MX_Banking_1586740_channel1.wav,human_call_phone,0,AppTek call-center (en-MX) (via phone line),6.0
+data/clips_b/human_call/en_SG_Technology_1592505_channel2.wav,human_call,0,AppTek call-center (en-SG),6.0
+data/clips_b/human_call_phone/en_SG_Technology_1592505_channel2.wav,human_call_phone,0,AppTek call-center (en-SG) (via phone line),6.0
+data/clips_b/human_call/en_SG_Insurance_1588005_channel2.wav,human_call,0,AppTek call-center (en-SG),6.0
+data/clips_b/human_call_phone/en_SG_Insurance_1588005_channel2.wav,human_call_phone,0,AppTek call-center (en-SG) (via phone line),6.0
+data/clips_b/human_call/en_SG_Insurance_1588804_channel2.wav,human_call,0,AppTek call-center (en-SG),6.0
+data/clips_b/human_call_phone/en_SG_Insurance_1588804_channel2.wav,human_call_phone,0,AppTek call-center (en-SG) (via phone line),6.0
+data/clips_b/human_call/en_SG_Telecom_1588823_channel2.wav,human_call,0,AppTek call-center (en-SG),6.0
+data/clips_b/human_call_phone/en_SG_Telecom_1588823_channel2.wav,human_call_phone,0,AppTek call-center (en-SG) (via phone line),6.0
+data/clips_b/human_call/en_US_Aave_Retail_1593236_channel2.wav,human_call,0,AppTek call-center (en-US_Aave),6.0
+data/clips_b/human_call_phone/en_US_Aave_Retail_1593236_channel2.wav,human_call_phone,0,AppTek call-center (en-US_Aave) (via phone line),6.0
+data/clips_b/human_call/en_US_Aave_Insurance_1593225_channel2.wav,human_call,0,AppTek call-center (en-US_Aave),6.0
+data/clips_b/human_call_phone/en_US_Aave_Insurance_1593225_channel2.wav,human_call_phone,0,AppTek call-center (en-US_Aave) (via phone line),6.0
+data/clips_b/human_call/en_US_Aave_Banking_1591583_channel1.wav,human_call,0,AppTek call-center (en-US_Aave),6.0
+data/clips_b/human_call_phone/en_US_Aave_Banking_1591583_channel1.wav,human_call_phone,0,AppTek call-center (en-US_Aave) (via phone line),6.0
+data/clips_b/human_call/en_US_Aave_Banking_1591807_channel1.wav,human_call,0,AppTek call-center (en-US_Aave),6.0
+data/clips_b/human_call_phone/en_US_Aave_Banking_1591807_channel1.wav,human_call_phone,0,AppTek call-center (en-US_Aave) (via phone line),6.0
+data/clips_b/human_call/en_US_General_Hospitality_1584570_channel2.wav,human_call,0,AppTek call-center (en-US_General),6.0
+data/clips_b/human_call_phone/en_US_General_Hospitality_1584570_channel2.wav,human_call_phone,0,AppTek call-center (en-US_General) (via phone line),6.0
+data/clips_b/human_call/en_US_General_Technology_1584566_channel1.wav,human_call,0,AppTek call-center (en-US_General),6.0
+data/clips_b/human_call_phone/en_US_General_Technology_1584566_channel1.wav,human_call_phone,0,AppTek call-center (en-US_General) (via phone line),6.0
+data/clips_b/human_call/en_US_General_Health_1586726_channel2.wav,human_call,0,AppTek call-center (en-US_General),6.0
+data/clips_b/human_call_phone/en_US_General_Health_1586726_channel2.wav,human_call_phone,0,AppTek call-center (en-US_General) (via phone line),6.0
+data/clips_b/human_call/en_US_General_RealEstate_1586745_channel2.wav,human_call,0,AppTek call-center (en-US_General),6.0
+data/clips_b/human_call_phone/en_US_General_RealEstate_1586745_channel2.wav,human_call_phone,0,AppTek call-center (en-US_General) (via phone line),6.0
+data/clips_b/human_call/en_US_Southern_Banking_1593141_channel1.wav,human_call,0,AppTek call-center (en-US_Southern),6.0
+data/clips_b/human_call_phone/en_US_Southern_Banking_1593141_channel1.wav,human_call_phone,0,AppTek call-center (en-US_Southern) (via phone line),6.0
+data/clips_b/human_call/en_US_Southern_Insurance_1593164_channel1.wav,human_call,0,AppTek call-center (en-US_Southern),6.0
+data/clips_b/human_call_phone/en_US_Southern_Insurance_1593164_channel1.wav,human_call_phone,0,AppTek call-center (en-US_Southern) (via phone line),6.0
+data/clips_b/human_call/en_US_Southern_Banking_1587833_channel2.wav,human_call,0,AppTek call-center (en-US_Southern),6.0
+data/clips_b/human_call_phone/en_US_Southern_Banking_1587833_channel2.wav,human_call_phone,0,AppTek call-center (en-US_Southern) (via phone line),6.0
+data/clips_b/human_call/en_US_Southern_Health_1587834_channel1.wav,human_call,0,AppTek call-center (en-US_Southern),6.0
+data/clips_b/human_call_phone/en_US_Southern_Health_1587834_channel1.wav,human_call_phone,0,AppTek call-center (en-US_Southern) (via phone line),6.0
+data/clips_b/human_call/en_ZA_Food_1588899_channel1.wav,human_call,0,AppTek call-center (en-ZA),6.0
+data/clips_b/human_call_phone/en_ZA_Food_1588899_channel1.wav,human_call_phone,0,AppTek call-center (en-ZA) (via phone line),6.0
+data/clips_b/human_call/en_ZA_Retail_1589087_channel2.wav,human_call,0,AppTek call-center (en-ZA),6.0
+data/clips_b/human_call_phone/en_ZA_Retail_1589087_channel2.wav,human_call_phone,0,AppTek call-center (en-ZA) (via phone line),6.0
+data/clips_b/human_call/en_ZA_Travel_1588052_channel2.wav,human_call,0,AppTek call-center (en-ZA),6.0
+data/clips_b/human_call_phone/en_ZA_Travel_1588052_channel2.wav,human_call_phone,0,AppTek call-center (en-ZA) (via phone line),6.0
+data/clips_b/human_call/en_ZA_Banking_1582352_channel2.wav,human_call,0,AppTek call-center (en-ZA),6.0
+data/clips_b/human_call_phone/en_ZA_Banking_1582352_channel2.wav,human_call_phone,0,AppTek call-center (en-ZA) (via phone line),6.0
+data/clips_b/ai_clean/cartesia_uttid_56.wav,ai_clean,1,Cartesia sonic (voice clone),6.0
+data/clips_b/ai_phone/cartesia_uttid_56.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/cartesia_uttid_162.wav,ai_clean,1,Cartesia sonic (voice clone),5.76
+data/clips_b/ai_phone/cartesia_uttid_162.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),5.76
+data/clips_b/ai_clean/cartesia_uttid_477.wav,ai_clean,1,Cartesia sonic (voice clone),6.0
+data/clips_b/ai_phone/cartesia_uttid_477.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/cartesia_uttid_298.wav,ai_clean,1,Cartesia sonic (voice clone),6.0
+data/clips_b/ai_phone/cartesia_uttid_298.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/cartesia_uttid_498.wav,ai_clean,1,Cartesia sonic (voice clone),6.0
+data/clips_b/ai_phone/cartesia_uttid_498.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/cartesia_uttid_352.wav,ai_clean,1,Cartesia sonic (voice clone),4.72
+data/clips_b/ai_phone/cartesia_uttid_352.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),4.72
+data/clips_b/ai_clean/cartesia_uttid_227.wav,ai_clean,1,Cartesia sonic (voice clone),6.0
+data/clips_b/ai_phone/cartesia_uttid_227.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/cartesia_uttid_424.wav,ai_clean,1,Cartesia sonic (voice clone),6.0
+data/clips_b/ai_phone/cartesia_uttid_424.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/cartesia_uttid_290.wav,ai_clean,1,Cartesia sonic (voice clone),6.0
+data/clips_b/ai_phone/cartesia_uttid_290.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/cartesia_uttid_264.wav,ai_clean,1,Cartesia sonic (voice clone),6.0
+data/clips_b/ai_phone/cartesia_uttid_264.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/cartesia_uttid_413.wav,ai_clean,1,Cartesia sonic (voice clone),6.0
+data/clips_b/ai_phone/cartesia_uttid_413.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/cartesia_uttid_274.wav,ai_clean,1,Cartesia sonic (voice clone),4.88
+data/clips_b/ai_phone/cartesia_uttid_274.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),4.88
+data/clips_b/ai_clean/cartesia_uttid_90.wav,ai_clean,1,Cartesia sonic (voice clone),6.0
+data/clips_b/ai_phone/cartesia_uttid_90.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/cartesia_uttid_205.wav,ai_clean,1,Cartesia sonic (voice clone),6.0
+data/clips_b/ai_phone/cartesia_uttid_205.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/cartesia_uttid_169.wav,ai_clean,1,Cartesia sonic (voice clone),6.0
+data/clips_b/ai_phone/cartesia_uttid_169.wav,ai_phone,1,Cartesia sonic (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_137.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_137.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_180.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_180.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_169.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_169.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_205.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_205.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_402.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_402.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_206.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_206.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_104.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_104.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_322.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_322.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_482.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_482.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_370.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_370.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_183.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_183.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_22.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_22.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_229.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_229.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_100.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_100.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/openai_gpt4o_mini_tts_s150_uttid_166.wav,ai_clean,1,OpenAI gpt-4o-mini-tts,6.0
+data/clips_b/ai_phone/openai_gpt4o_mini_tts_s150_uttid_166.wav,ai_phone,1,OpenAI gpt-4o-mini-tts (via phone line),6.0
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_292.wav,ai_clean,1,ElevenLabs v3 (voice clone),6.0
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_292.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_345.wav,ai_clean,1,ElevenLabs v3 (voice clone),6.0
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_345.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_27.wav,ai_clean,1,ElevenLabs v3 (voice clone),6.0
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_27.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_380.wav,ai_clean,1,ElevenLabs v3 (voice clone),5.76
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_380.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),5.76
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_36.wav,ai_clean,1,ElevenLabs v3 (voice clone),6.0
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_36.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_246.wav,ai_clean,1,ElevenLabs v3 (voice clone),4.64
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_246.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),4.64
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_88.wav,ai_clean,1,ElevenLabs v3 (voice clone),6.0
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_88.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_157.wav,ai_clean,1,ElevenLabs v3 (voice clone),5.6
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_157.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),5.6
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_417.wav,ai_clean,1,ElevenLabs v3 (voice clone),6.0
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_417.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_495.wav,ai_clean,1,ElevenLabs v3 (voice clone),5.92
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_495.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),5.92
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_336.wav,ai_clean,1,ElevenLabs v3 (voice clone),4.96
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_336.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),4.96
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_87.wav,ai_clean,1,ElevenLabs v3 (voice clone),4.88
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_87.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),4.88
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_384.wav,ai_clean,1,ElevenLabs v3 (voice clone),6.0
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_384.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_400.wav,ai_clean,1,ElevenLabs v3 (voice clone),6.0
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_400.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),6.0
+data/clips_b/ai_clean/elevenlabs_v3_s150_uttid_410.wav,ai_clean,1,ElevenLabs v3 (voice clone),5.6
+data/clips_b/ai_phone/elevenlabs_v3_s150_uttid_410.wav,ai_phone,1,ElevenLabs v3 (voice clone) (via phone line),5.6
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_44.wav,ai_clean,1,Qwen3-TTS (open source),5.6
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_44.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),5.6
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_123.wav,ai_clean,1,Qwen3-TTS (open source),6.0
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_123.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),6.0
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_309.wav,ai_clean,1,Qwen3-TTS (open source),5.04
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_309.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),5.04
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_63.wav,ai_clean,1,Qwen3-TTS (open source),4.96
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_63.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),4.96
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_50.wav,ai_clean,1,Qwen3-TTS (open source),6.0
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_50.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),6.0
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_459.wav,ai_clean,1,Qwen3-TTS (open source),6.0
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_459.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),6.0
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_88.wav,ai_clean,1,Qwen3-TTS (open source),6.0
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_88.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),6.0
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_51.wav,ai_clean,1,Qwen3-TTS (open source),6.0
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_51.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),6.0
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_412.wav,ai_clean,1,Qwen3-TTS (open source),4.24
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_412.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),4.24
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_467.wav,ai_clean,1,Qwen3-TTS (open source),5.28
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_467.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),5.28
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_357.wav,ai_clean,1,Qwen3-TTS (open source),6.0
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_357.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),6.0
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_28.wav,ai_clean,1,Qwen3-TTS (open source),6.0
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_28.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),6.0
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_282.wav,ai_clean,1,Qwen3-TTS (open source),4.8
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_282.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),4.8
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_283.wav,ai_clean,1,Qwen3-TTS (open source),6.0
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_283.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),6.0
+data/clips_b/ai_clean/qwen3_tts_customvoice_s150_uttid_280.wav,ai_clean,1,Qwen3-TTS (open source),6.0
+data/clips_b/ai_phone/qwen3_tts_customvoice_s150_uttid_280.wav,ai_phone,1,Qwen3-TTS (open source) (via phone line),6.0

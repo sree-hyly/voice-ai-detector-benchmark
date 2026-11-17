@@ -1,0 +1,1081 @@
+model,file,group,source,is_ai,ai_score
+AASIST,data/clips/real_phone/callhome_5712.wav,real_phone,CallHome English (real phone call),0,8.387287139892578
+AASIST,data/clips/real_phone/callhome_5931.wav,real_phone,CallHome English (real phone call),0,12.541033744812012
+AASIST,data/clips/real_phone/callhome_4184.wav,real_phone,CallHome English (real phone call),0,7.990732669830322
+AASIST,data/clips/real_phone/callhome_4838.wav,real_phone,CallHome English (real phone call),0,13.542757034301758
+AASIST,data/clips/real_phone/callhome_6456.wav,real_phone,CallHome English (real phone call),0,9.283710479736328
+AASIST,data/clips/real_phone/callhome_6298.wav,real_phone,CallHome English (real phone call),0,12.460848808288574
+AASIST,data/clips/real_phone/callhome_5866.wav,real_phone,CallHome English (real phone call),0,9.855381965637207
+AASIST,data/clips/real_phone/callhome_4941.wav,real_phone,CallHome English (real phone call),0,6.540534019470215
+AASIST,data/clips/real_phone/callhome_6265.wav,real_phone,CallHome English (real phone call),0,1.5244982242584229
+AASIST,data/clips/real_phone/callhome_5388.wav,real_phone,CallHome English (real phone call),0,11.218019485473633
+AASIST,data/clips/real_phone/callhome_4726.wav,real_phone,CallHome English (real phone call),0,10.92976188659668
+AASIST,data/clips/real_phone/callhome_4569.wav,real_phone,CallHome English (real phone call),0,7.62060546875
+AASIST,data/clips/real_phone/callhome_4902.wav,real_phone,CallHome English (real phone call),0,7.653367042541504
+AASIST,data/clips/real_phone/callhome_4310.wav,real_phone,CallHome English (real phone call),0,5.290711402893066
+AASIST,data/clips/real_phone/callhome_5648.wav,real_phone,CallHome English (real phone call),0,9.482523918151855
+AASIST,data/clips/real_phone/callhome_4245.wav,real_phone,CallHome English (real phone call),0,3.4567794799804688
+AASIST,data/clips/real_phone/callhome_4968.wav,real_phone,CallHome English (real phone call),0,5.227291107177734
+AASIST,data/clips/real_phone/callhome_5788.wav,real_phone,CallHome English (real phone call),0,7.184822082519531
+AASIST,data/clips/real_phone/callhome_4544.wav,real_phone,CallHome English (real phone call),0,14.211282730102539
+AASIST,data/clips/real_phone/callhome_6130.wav,real_phone,CallHome English (real phone call),0,7.996747016906738
+AASIST,data/clips/real_phone/callhome_4861.wav,real_phone,CallHome English (real phone call),0,9.148548126220703
+AASIST,data/clips/real_phone/callhome_5373.wav,real_phone,CallHome English (real phone call),0,8.34671688079834
+AASIST,data/clips/real_phone/callhome_6479.wav,real_phone,CallHome English (real phone call),0,11.625741958618164
+AASIST,data/clips/real_phone/callhome_6474.wav,real_phone,CallHome English (real phone call),0,14.092751502990723
+AASIST,data/clips/real_phone/callhome_6107.wav,real_phone,CallHome English (real phone call),0,11.131011962890625
+AASIST,data/clips/real_phone/callhome_4315.wav,real_phone,CallHome English (real phone call),0,9.630645751953125
+AASIST,data/clips/real_phone/callhome_4595.wav,real_phone,CallHome English (real phone call),0,9.899518966674805
+AASIST,data/clips/real_phone/callhome_6521.wav,real_phone,CallHome English (real phone call),0,-0.8439701795578003
+AASIST,data/clips/real_phone/callhome_5532.wav,real_phone,CallHome English (real phone call),0,0.7146056890487671
+AASIST,data/clips/real_phone/callhome_4157.wav,real_phone,CallHome English (real phone call),0,-4.665285587310791
+AASIST,data/clips/real_phone/callhome_6033.wav,real_phone,CallHome English (real phone call),0,4.301273822784424
+AASIST,data/clips/real_phone/callhome_5273.wav,real_phone,CallHome English (real phone call),0,6.677152633666992
+AASIST,data/clips/real_phone/callhome_4623.wav,real_phone,CallHome English (real phone call),0,6.386569976806641
+AASIST,data/clips/real_phone/callhome_4802.wav,real_phone,CallHome English (real phone call),0,5.151378631591797
+AASIST,data/clips/real_phone/callhome_4887.wav,real_phone,CallHome English (real phone call),0,8.988008499145508
+AASIST,data/clips/real_phone/callhome_6071.wav,real_phone,CallHome English (real phone call),0,12.537736892700195
+AASIST,data/clips/real_phone/callhome_4629.wav,real_phone,CallHome English (real phone call),0,3.607327461242676
+AASIST,data/clips/real_phone/callhome_6447.wav,real_phone,CallHome English (real phone call),0,10.728409767150879
+AASIST,data/clips/real_phone/callhome_4610.wav,real_phone,CallHome English (real phone call),0,1.7527774572372437
+AASIST,data/clips/real_phone/callhome_4967.wav,real_phone,CallHome English (real phone call),0,-2.553323745727539
+AASIST,data/clips/ai_clean/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_clean,ElevenLabs v4,1,0.9826325178146362
+AASIST,data/clips/ai_phone/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_phone,ElevenLabs v4 (via phone line),1,6.106183052062988
+AASIST,data/clips/ai_clean/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_clean,ElevenLabs v4,1,2.3843796253204346
+AASIST,data/clips/ai_phone/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_phone,ElevenLabs v4 (via phone line),1,3.391164779663086
+AASIST,data/clips/ai_clean/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_clean,ElevenLabs v4,1,6.704384803771973
+AASIST,data/clips/ai_phone/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_phone,ElevenLabs v4 (via phone line),1,-1.5190634727478027
+AASIST,data/clips/ai_clean/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_clean,ElevenLabs v4,1,-3.9461233615875244
+AASIST,data/clips/ai_phone/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.66428279876709
+AASIST,data/clips/ai_clean/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_clean,ElevenLabs v4,1,3.0704503059387207
+AASIST,data/clips/ai_phone/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.5859317779541016
+AASIST,data/clips/ai_clean/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_clean,ElevenLabs v4,1,3.1577277183532715
+AASIST,data/clips/ai_phone/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_phone,ElevenLabs v4 (via phone line),1,4.932969093322754
+AASIST,data/clips/ai_clean/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_clean,ElevenLabs v4,1,-0.16870245337486267
+AASIST,data/clips/ai_phone/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.642897605895996
+AASIST,data/clips/ai_clean/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_clean,ElevenLabs v4,1,2.671858549118042
+AASIST,data/clips/ai_phone/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_phone,ElevenLabs v4 (via phone line),1,8.358208656311035
+AASIST,data/clips/ai_clean/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_clean,ElevenLabs v4,1,-5.374709129333496
+AASIST,data/clips/ai_phone/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_phone,ElevenLabs v4 (via phone line),1,2.6835546493530273
+AASIST,data/clips/ai_clean/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_clean,ElevenLabs v4,1,2.4800572395324707
+AASIST,data/clips/ai_phone/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_phone,ElevenLabs v4 (via phone line),1,2.1564600467681885
+AASIST,data/clips/ai_clean/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_clean,ElevenLabs v4,1,2.5011439323425293
+AASIST,data/clips/ai_phone/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_phone,ElevenLabs v4 (via phone line),1,0.934586226940155
+AASIST,data/clips/ai_clean/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_clean,ElevenLabs v4,1,4.060694217681885
+AASIST,data/clips/ai_phone/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_phone,ElevenLabs v4 (via phone line),1,4.166703701019287
+AASIST,data/clips/ai_clean/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_clean,ElevenLabs v4,1,3.815521717071533
+AASIST,data/clips/ai_phone/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_phone,ElevenLabs v4 (via phone line),1,2.908172607421875
+AASIST,data/clips/ai_clean/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_clean,ElevenLabs v4,1,3.9999570846557617
+AASIST,data/clips/ai_phone/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_phone,ElevenLabs v4 (via phone line),1,11.40829086303711
+AASIST,data/clips/ai_clean/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_clean,ElevenLabs v4,1,-3.559952735900879
+AASIST,data/clips/ai_phone/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.303682804107666
+AASIST,data/clips/ai_clean/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_clean,ElevenLabs v4,1,-4.411571502685547
+AASIST,data/clips/ai_phone/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.752995729446411
+AASIST,data/clips/ai_clean/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_clean,ElevenLabs v4,1,-3.1063315868377686
+AASIST,data/clips/ai_phone/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.914140224456787
+AASIST,data/clips/ai_clean/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_clean,ElevenLabs v4,1,3.056997776031494
+AASIST,data/clips/ai_phone/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_phone,ElevenLabs v4 (via phone line),1,7.438445091247559
+AASIST,data/clips/ai_clean/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_clean,ElevenLabs v4,1,-5.283455848693848
+AASIST,data/clips/ai_phone/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.8514041900634766
+AASIST,data/clips/ai_clean/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_clean,ElevenLabs v4,1,1.8126057386398315
+AASIST,data/clips/ai_phone/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_phone,ElevenLabs v4 (via phone line),1,7.785045623779297
+AASIST,data/clips/ai_clean/el2_00.wav,ai_clean,ElevenLabs multilingual v2,1,3.521389961242676
+AASIST,data/clips/ai_phone/el2_00.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,9.605119705200195
+AASIST,data/clips/ai_clean/el2_01.wav,ai_clean,ElevenLabs multilingual v2,1,1.8940050601959229
+AASIST,data/clips/ai_phone/el2_01.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,8.44466495513916
+AASIST,data/clips/ai_clean/el2_02.wav,ai_clean,ElevenLabs multilingual v2,1,6.028373718261719
+AASIST,data/clips/ai_phone/el2_02.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,11.253389358520508
+AASIST,data/clips/ai_clean/el2_03.wav,ai_clean,ElevenLabs multilingual v2,1,4.921282768249512
+AASIST,data/clips/ai_phone/el2_03.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,12.566585540771484
+AASIST,data/clips/ai_clean/el2_04.wav,ai_clean,ElevenLabs multilingual v2,1,4.59050178527832
+AASIST,data/clips/ai_phone/el2_04.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,11.726907730102539
+AASIST,data/clips/ai_clean/el2_05.wav,ai_clean,ElevenLabs multilingual v2,1,6.17574405670166
+AASIST,data/clips/ai_phone/el2_05.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,10.361658096313477
+AASIST,data/clips/ai_clean/edge_en-US-AriaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-4.916024208068848
+AASIST,data/clips/ai_phone/edge_en-US-AriaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,5.940892219543457
+AASIST,data/clips/ai_clean/edge_en-US-GuyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,1.6787946224212646
+AASIST,data/clips/ai_phone/edge_en-US-GuyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,7.8630828857421875
+AASIST,data/clips/ai_clean/edge_en-US-JennyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-10.888846397399902
+AASIST,data/clips/ai_phone/edge_en-US-JennyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-5.000732898712158
+AASIST,data/clips/ai_clean/edge_en-GB-SoniaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,0.7820438146591187
+AASIST,data/clips/ai_phone/edge_en-GB-SoniaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,6.8842973709106445
+AASIST,data/clips/ai_clean/edge_en-US-ChristopherNeural.wav,ai_clean,Microsoft Edge neural TTS,1,2.7905220985412598
+AASIST,data/clips/ai_phone/edge_en-US-ChristopherNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,6.198447227478027
+AASIST,data/clips/ai_clean/edge_en-AU-NatashaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-2.370715379714966
+AASIST,data/clips/ai_phone/edge_en-AU-NatashaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,3.7943601608276367
+AASIST,data/clips/ai_clean/edge_en-US-EricNeural.wav,ai_clean,Microsoft Edge neural TTS,1,4.90994930267334
+AASIST,data/clips/ai_phone/edge_en-US-EricNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,9.158905029296875
+AASIST,data/clips/ai_clean/edge_en-IN-NeerjaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,1.0364205837249756
+AASIST,data/clips/ai_phone/edge_en-IN-NeerjaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,7.488330841064453
+W2V2-AASIST,data/clips/real_phone/callhome_5712.wav,real_phone,CallHome English (real phone call),0,11.747604370117188
+W2V2-AASIST,data/clips/real_phone/callhome_5931.wav,real_phone,CallHome English (real phone call),0,9.342557907104492
+W2V2-AASIST,data/clips/real_phone/callhome_4184.wav,real_phone,CallHome English (real phone call),0,6.544248580932617
+W2V2-AASIST,data/clips/real_phone/callhome_4838.wav,real_phone,CallHome English (real phone call),0,8.806417465209961
+W2V2-AASIST,data/clips/real_phone/callhome_6456.wav,real_phone,CallHome English (real phone call),0,7.841577053070068
+W2V2-AASIST,data/clips/real_phone/callhome_6298.wav,real_phone,CallHome English (real phone call),0,12.061123847961426
+W2V2-AASIST,data/clips/real_phone/callhome_5866.wav,real_phone,CallHome English (real phone call),0,6.620353698730469
+W2V2-AASIST,data/clips/real_phone/callhome_4941.wav,real_phone,CallHome English (real phone call),0,12.880632400512695
+W2V2-AASIST,data/clips/real_phone/callhome_6265.wav,real_phone,CallHome English (real phone call),0,-3.685790538787842
+W2V2-AASIST,data/clips/real_phone/callhome_5388.wav,real_phone,CallHome English (real phone call),0,11.773747444152832
+W2V2-AASIST,data/clips/real_phone/callhome_4726.wav,real_phone,CallHome English (real phone call),0,10.212969779968262
+W2V2-AASIST,data/clips/real_phone/callhome_4569.wav,real_phone,CallHome English (real phone call),0,6.01020622253418
+W2V2-AASIST,data/clips/real_phone/callhome_4902.wav,real_phone,CallHome English (real phone call),0,2.96891188621521
+W2V2-AASIST,data/clips/real_phone/callhome_4310.wav,real_phone,CallHome English (real phone call),0,5.9359331130981445
+W2V2-AASIST,data/clips/real_phone/callhome_5648.wav,real_phone,CallHome English (real phone call),0,12.10126781463623
+W2V2-AASIST,data/clips/real_phone/callhome_4245.wav,real_phone,CallHome English (real phone call),0,9.829526901245117
+W2V2-AASIST,data/clips/real_phone/callhome_4968.wav,real_phone,CallHome English (real phone call),0,12.038188934326172
+W2V2-AASIST,data/clips/real_phone/callhome_5788.wav,real_phone,CallHome English (real phone call),0,10.4327392578125
+W2V2-AASIST,data/clips/real_phone/callhome_4544.wav,real_phone,CallHome English (real phone call),0,12.844263076782227
+W2V2-AASIST,data/clips/real_phone/callhome_6130.wav,real_phone,CallHome English (real phone call),0,11.727141380310059
+W2V2-AASIST,data/clips/real_phone/callhome_4861.wav,real_phone,CallHome English (real phone call),0,11.313003540039062
+W2V2-AASIST,data/clips/real_phone/callhome_5373.wav,real_phone,CallHome English (real phone call),0,6.922187805175781
+W2V2-AASIST,data/clips/real_phone/callhome_6479.wav,real_phone,CallHome English (real phone call),0,12.44532299041748
+W2V2-AASIST,data/clips/real_phone/callhome_6474.wav,real_phone,CallHome English (real phone call),0,-2.9409914016723633
+W2V2-AASIST,data/clips/real_phone/callhome_6107.wav,real_phone,CallHome English (real phone call),0,11.080282211303711
+W2V2-AASIST,data/clips/real_phone/callhome_4315.wav,real_phone,CallHome English (real phone call),0,10.162703514099121
+W2V2-AASIST,data/clips/real_phone/callhome_4595.wav,real_phone,CallHome English (real phone call),0,11.299773216247559
+W2V2-AASIST,data/clips/real_phone/callhome_6521.wav,real_phone,CallHome English (real phone call),0,12.823719024658203
+W2V2-AASIST,data/clips/real_phone/callhome_5532.wav,real_phone,CallHome English (real phone call),0,8.339963912963867
+W2V2-AASIST,data/clips/real_phone/callhome_4157.wav,real_phone,CallHome English (real phone call),0,2.3834075927734375
+W2V2-AASIST,data/clips/real_phone/callhome_6033.wav,real_phone,CallHome English (real phone call),0,7.795261383056641
+W2V2-AASIST,data/clips/real_phone/callhome_5273.wav,real_phone,CallHome English (real phone call),0,7.343835830688477
+W2V2-AASIST,data/clips/real_phone/callhome_4623.wav,real_phone,CallHome English (real phone call),0,12.036027908325195
+W2V2-AASIST,data/clips/real_phone/callhome_4802.wav,real_phone,CallHome English (real phone call),0,7.7482147216796875
+W2V2-AASIST,data/clips/real_phone/callhome_4887.wav,real_phone,CallHome English (real phone call),0,12.694998741149902
+W2V2-AASIST,data/clips/real_phone/callhome_6071.wav,real_phone,CallHome English (real phone call),0,7.395463466644287
+W2V2-AASIST,data/clips/real_phone/callhome_4629.wav,real_phone,CallHome English (real phone call),0,10.983701705932617
+W2V2-AASIST,data/clips/real_phone/callhome_6447.wav,real_phone,CallHome English (real phone call),0,7.897318363189697
+W2V2-AASIST,data/clips/real_phone/callhome_4610.wav,real_phone,CallHome English (real phone call),0,5.6530890464782715
+W2V2-AASIST,data/clips/real_phone/callhome_4967.wav,real_phone,CallHome English (real phone call),0,12.073471069335938
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_clean,ElevenLabs v4,1,5.982187271118164
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_phone,ElevenLabs v4 (via phone line),1,6.147047996520996
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_clean,ElevenLabs v4,1,9.70740795135498
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_phone,ElevenLabs v4 (via phone line),1,11.080880165100098
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_clean,ElevenLabs v4,1,-10.53262710571289
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_phone,ElevenLabs v4 (via phone line),1,-8.416268348693848
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_clean,ElevenLabs v4,1,-4.497918605804443
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_phone,ElevenLabs v4 (via phone line),1,0.8271374106407166
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_clean,ElevenLabs v4,1,2.931321620941162
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_phone,ElevenLabs v4 (via phone line),1,4.780340194702148
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_clean,ElevenLabs v4,1,9.323797225952148
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_phone,ElevenLabs v4 (via phone line),1,9.836311340332031
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_clean,ElevenLabs v4,1,-4.629720211029053
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.0661535263061523
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_clean,ElevenLabs v4,1,8.018253326416016
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_phone,ElevenLabs v4 (via phone line),1,8.712275505065918
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_clean,ElevenLabs v4,1,0.1014273464679718
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_phone,ElevenLabs v4 (via phone line),1,10.96786117553711
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_clean,ElevenLabs v4,1,9.606682777404785
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_phone,ElevenLabs v4 (via phone line),1,10.79426383972168
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_clean,ElevenLabs v4,1,3.037468433380127
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_phone,ElevenLabs v4 (via phone line),1,2.8336217403411865
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_clean,ElevenLabs v4,1,3.299233913421631
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_phone,ElevenLabs v4 (via phone line),1,5.482783317565918
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_clean,ElevenLabs v4,1,0.41850972175598145
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.7418103218078613
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_clean,ElevenLabs v4,1,11.982980728149414
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_phone,ElevenLabs v4 (via phone line),1,12.6056489944458
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_clean,ElevenLabs v4,1,0.8089865446090698
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_phone,ElevenLabs v4 (via phone line),1,7.489536285400391
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_clean,ElevenLabs v4,1,-8.153777122497559
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_phone,ElevenLabs v4 (via phone line),1,-3.923424005508423
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_clean,ElevenLabs v4,1,-2.38789439201355
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_phone,ElevenLabs v4 (via phone line),1,2.4425954818725586
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_clean,ElevenLabs v4,1,10.577903747558594
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_phone,ElevenLabs v4 (via phone line),1,12.552155494689941
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_clean,ElevenLabs v4,1,-3.329174518585205
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_phone,ElevenLabs v4 (via phone line),1,-1.0571333169937134
+W2V2-AASIST,data/clips/ai_clean/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_clean,ElevenLabs v4,1,3.2752785682678223
+W2V2-AASIST,data/clips/ai_phone/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_phone,ElevenLabs v4 (via phone line),1,8.029073715209961
+W2V2-AASIST,data/clips/ai_clean/el2_00.wav,ai_clean,ElevenLabs multilingual v2,1,10.781417846679688
+W2V2-AASIST,data/clips/ai_phone/el2_00.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,10.744133949279785
+W2V2-AASIST,data/clips/ai_clean/el2_01.wav,ai_clean,ElevenLabs multilingual v2,1,10.843425750732422
+W2V2-AASIST,data/clips/ai_phone/el2_01.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,9.584891319274902
+W2V2-AASIST,data/clips/ai_clean/el2_02.wav,ai_clean,ElevenLabs multilingual v2,1,11.317937850952148
+W2V2-AASIST,data/clips/ai_phone/el2_02.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,12.57834243774414
+W2V2-AASIST,data/clips/ai_clean/el2_03.wav,ai_clean,ElevenLabs multilingual v2,1,11.525349617004395
+W2V2-AASIST,data/clips/ai_phone/el2_03.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,11.932929992675781
+W2V2-AASIST,data/clips/ai_clean/el2_04.wav,ai_clean,ElevenLabs multilingual v2,1,9.463872909545898
+W2V2-AASIST,data/clips/ai_phone/el2_04.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,12.041866302490234
+W2V2-AASIST,data/clips/ai_clean/el2_05.wav,ai_clean,ElevenLabs multilingual v2,1,11.055081367492676
+W2V2-AASIST,data/clips/ai_phone/el2_05.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,9.273721694946289
+W2V2-AASIST,data/clips/ai_clean/edge_en-US-AriaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,6.346126556396484
+W2V2-AASIST,data/clips/ai_phone/edge_en-US-AriaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,8.623586654663086
+W2V2-AASIST,data/clips/ai_clean/edge_en-US-GuyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,0.1094357818365097
+W2V2-AASIST,data/clips/ai_phone/edge_en-US-GuyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,1.8653182983398438
+W2V2-AASIST,data/clips/ai_clean/edge_en-US-JennyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-8.897956848144531
+W2V2-AASIST,data/clips/ai_phone/edge_en-US-JennyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-2.3127706050872803
+W2V2-AASIST,data/clips/ai_clean/edge_en-GB-SoniaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,6.962808609008789
+W2V2-AASIST,data/clips/ai_phone/edge_en-GB-SoniaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,10.633270263671875
+W2V2-AASIST,data/clips/ai_clean/edge_en-US-ChristopherNeural.wav,ai_clean,Microsoft Edge neural TTS,1,10.07863998413086
+W2V2-AASIST,data/clips/ai_phone/edge_en-US-ChristopherNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,12.320377349853516
+W2V2-AASIST,data/clips/ai_clean/edge_en-AU-NatashaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,4.115817070007324
+W2V2-AASIST,data/clips/ai_phone/edge_en-AU-NatashaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,8.718362808227539
+W2V2-AASIST,data/clips/ai_clean/edge_en-US-EricNeural.wav,ai_clean,Microsoft Edge neural TTS,1,12.283617973327637
+W2V2-AASIST,data/clips/ai_phone/edge_en-US-EricNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,12.803491592407227
+W2V2-AASIST,data/clips/ai_clean/edge_en-IN-NeerjaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-1.6535165309906006
+W2V2-AASIST,data/clips/ai_phone/edge_en-IN-NeerjaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-6.45039176940918
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_5712.wav,real_phone,CallHome English (real phone call),0,5.023801803588867
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_5931.wav,real_phone,CallHome English (real phone call),0,7.902733325958252
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4184.wav,real_phone,CallHome English (real phone call),0,-7.366957187652588
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4838.wav,real_phone,CallHome English (real phone call),0,6.836945533752441
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_6456.wav,real_phone,CallHome English (real phone call),0,-5.039194107055664
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_6298.wav,real_phone,CallHome English (real phone call),0,9.396092414855957
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_5866.wav,real_phone,CallHome English (real phone call),0,7.826878547668457
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4941.wav,real_phone,CallHome English (real phone call),0,10.035560607910156
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_6265.wav,real_phone,CallHome English (real phone call),0,1.6598498821258545
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_5388.wav,real_phone,CallHome English (real phone call),0,7.791797161102295
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4726.wav,real_phone,CallHome English (real phone call),0,9.473016738891602
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4569.wav,real_phone,CallHome English (real phone call),0,6.484029769897461
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4902.wav,real_phone,CallHome English (real phone call),0,-5.658231735229492
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4310.wav,real_phone,CallHome English (real phone call),0,2.8152432441711426
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_5648.wav,real_phone,CallHome English (real phone call),0,8.3658447265625
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4245.wav,real_phone,CallHome English (real phone call),0,8.030162811279297
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4968.wav,real_phone,CallHome English (real phone call),0,3.94445538520813
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_5788.wav,real_phone,CallHome English (real phone call),0,7.53935432434082
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4544.wav,real_phone,CallHome English (real phone call),0,8.475593566894531
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_6130.wav,real_phone,CallHome English (real phone call),0,0.7165297269821167
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4861.wav,real_phone,CallHome English (real phone call),0,7.472938537597656
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_5373.wav,real_phone,CallHome English (real phone call),0,-4.5314741134643555
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_6479.wav,real_phone,CallHome English (real phone call),0,7.5073981285095215
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_6474.wav,real_phone,CallHome English (real phone call),0,6.39216423034668
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_6107.wav,real_phone,CallHome English (real phone call),0,5.835148811340332
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4315.wav,real_phone,CallHome English (real phone call),0,7.818695068359375
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4595.wav,real_phone,CallHome English (real phone call),0,9.820240020751953
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_6521.wav,real_phone,CallHome English (real phone call),0,8.594030380249023
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_5532.wav,real_phone,CallHome English (real phone call),0,-7.813657283782959
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4157.wav,real_phone,CallHome English (real phone call),0,-2.621245861053467
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_6033.wav,real_phone,CallHome English (real phone call),0,7.016604900360107
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_5273.wav,real_phone,CallHome English (real phone call),0,5.082767486572266
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4623.wav,real_phone,CallHome English (real phone call),0,2.316436290740967
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4802.wav,real_phone,CallHome English (real phone call),0,-1.6425435543060303
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4887.wav,real_phone,CallHome English (real phone call),0,7.114550590515137
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_6071.wav,real_phone,CallHome English (real phone call),0,-3.4231789112091064
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4629.wav,real_phone,CallHome English (real phone call),0,-5.262211322784424
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_6447.wav,real_phone,CallHome English (real phone call),0,6.214199066162109
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4610.wav,real_phone,CallHome English (real phone call),0,5.134090423583984
+ProSDD (ASVspoof2019),data/clips/real_phone/callhome_4967.wav,real_phone,CallHome English (real phone call),0,0.7805956602096558
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_clean,ElevenLabs v4,1,-7.667712211608887
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_phone,ElevenLabs v4 (via phone line),1,-8.527925491333008
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_clean,ElevenLabs v4,1,-5.46824836730957
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_phone,ElevenLabs v4 (via phone line),1,-1.8003885746002197
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_clean,ElevenLabs v4,1,2.014211893081665
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_phone,ElevenLabs v4 (via phone line),1,-0.32773223519325256
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_clean,ElevenLabs v4,1,-4.950150012969971
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-1.8412278890609741
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_clean,ElevenLabs v4,1,-7.770158767700195
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.280637264251709
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_clean,ElevenLabs v4,1,-10.536933898925781
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_phone,ElevenLabs v4 (via phone line),1,-7.519177436828613
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_clean,ElevenLabs v4,1,0.5438575744628906
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.4449100494384766
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_clean,ElevenLabs v4,1,-0.08947338163852692
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_phone,ElevenLabs v4 (via phone line),1,2.3980185985565186
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_clean,ElevenLabs v4,1,-5.590512752532959
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.081080913543701
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_clean,ElevenLabs v4,1,-1.4552421569824219
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_phone,ElevenLabs v4 (via phone line),1,0.3146563172340393
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_clean,ElevenLabs v4,1,-2.018998146057129
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_phone,ElevenLabs v4 (via phone line),1,0.6345314979553223
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_clean,ElevenLabs v4,1,0.9797961711883545
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.161332130432129
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_clean,ElevenLabs v4,1,-0.9732292890548706
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.689366102218628
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_clean,ElevenLabs v4,1,-5.966471195220947
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.106534004211426
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_clean,ElevenLabs v4,1,0.4643353223800659
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_phone,ElevenLabs v4 (via phone line),1,5.776699066162109
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_clean,ElevenLabs v4,1,0.41823482513427734
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_phone,ElevenLabs v4 (via phone line),1,3.64872145652771
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_clean,ElevenLabs v4,1,-10.76291561126709
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-7.013583183288574
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_clean,ElevenLabs v4,1,-0.7705815434455872
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_phone,ElevenLabs v4 (via phone line),1,0.7883379459381104
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_clean,ElevenLabs v4,1,-9.059270858764648
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.8250532150268555
+ProSDD (ASVspoof2019),data/clips/ai_clean/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_clean,ElevenLabs v4,1,-4.188838958740234
+ProSDD (ASVspoof2019),data/clips/ai_phone/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.1962599754333496
+ProSDD (ASVspoof2019),data/clips/ai_clean/el2_00.wav,ai_clean,ElevenLabs multilingual v2,1,-7.678951740264893
+ProSDD (ASVspoof2019),data/clips/ai_phone/el2_00.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-5.653797149658203
+ProSDD (ASVspoof2019),data/clips/ai_clean/el2_01.wav,ai_clean,ElevenLabs multilingual v2,1,-8.483701705932617
+ProSDD (ASVspoof2019),data/clips/ai_phone/el2_01.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-7.310917854309082
+ProSDD (ASVspoof2019),data/clips/ai_clean/el2_02.wav,ai_clean,ElevenLabs multilingual v2,1,-4.574767589569092
+ProSDD (ASVspoof2019),data/clips/ai_phone/el2_02.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-1.0735583305358887
+ProSDD (ASVspoof2019),data/clips/ai_clean/el2_03.wav,ai_clean,ElevenLabs multilingual v2,1,-2.7291367053985596
+ProSDD (ASVspoof2019),data/clips/ai_phone/el2_03.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,0.9195475578308105
+ProSDD (ASVspoof2019),data/clips/ai_clean/el2_04.wav,ai_clean,ElevenLabs multilingual v2,1,-8.363194465637207
+ProSDD (ASVspoof2019),data/clips/ai_phone/el2_04.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-6.0485639572143555
+ProSDD (ASVspoof2019),data/clips/ai_clean/el2_05.wav,ai_clean,ElevenLabs multilingual v2,1,-7.857064723968506
+ProSDD (ASVspoof2019),data/clips/ai_phone/el2_05.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-6.067653656005859
+ProSDD (ASVspoof2019),data/clips/ai_clean/edge_en-US-AriaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-5.055936813354492
+ProSDD (ASVspoof2019),data/clips/ai_phone/edge_en-US-AriaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-3.0010337829589844
+ProSDD (ASVspoof2019),data/clips/ai_clean/edge_en-US-GuyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-3.6824769973754883
+ProSDD (ASVspoof2019),data/clips/ai_phone/edge_en-US-GuyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-1.4606671333312988
+ProSDD (ASVspoof2019),data/clips/ai_clean/edge_en-US-JennyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-4.262740612030029
+ProSDD (ASVspoof2019),data/clips/ai_phone/edge_en-US-JennyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-2.006822109222412
+ProSDD (ASVspoof2019),data/clips/ai_clean/edge_en-GB-SoniaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-3.857771158218384
+ProSDD (ASVspoof2019),data/clips/ai_phone/edge_en-GB-SoniaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-4.012240409851074
+ProSDD (ASVspoof2019),data/clips/ai_clean/edge_en-US-ChristopherNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-5.500121116638184
+ProSDD (ASVspoof2019),data/clips/ai_phone/edge_en-US-ChristopherNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-1.2114877700805664
+ProSDD (ASVspoof2019),data/clips/ai_clean/edge_en-AU-NatashaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-3.8383517265319824
+ProSDD (ASVspoof2019),data/clips/ai_phone/edge_en-AU-NatashaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-3.7977211475372314
+ProSDD (ASVspoof2019),data/clips/ai_clean/edge_en-US-EricNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-7.178423881530762
+ProSDD (ASVspoof2019),data/clips/ai_phone/edge_en-US-EricNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-3.3433175086975098
+ProSDD (ASVspoof2019),data/clips/ai_clean/edge_en-IN-NeerjaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,0.4009665250778198
+ProSDD (ASVspoof2019),data/clips/ai_phone/edge_en-IN-NeerjaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,2.2384185791015625
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_5712.wav,real_phone,CallHome English (real phone call),0,-18.997215270996094
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_5931.wav,real_phone,CallHome English (real phone call),0,-19.944602966308594
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4184.wav,real_phone,CallHome English (real phone call),0,-21.03048324584961
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4838.wav,real_phone,CallHome English (real phone call),0,-15.501456260681152
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_6456.wav,real_phone,CallHome English (real phone call),0,-17.643306732177734
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_6298.wav,real_phone,CallHome English (real phone call),0,-16.903377532958984
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_5866.wav,real_phone,CallHome English (real phone call),0,-15.508048057556152
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4941.wav,real_phone,CallHome English (real phone call),0,-21.28683853149414
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_6265.wav,real_phone,CallHome English (real phone call),0,-20.350242614746094
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_5388.wav,real_phone,CallHome English (real phone call),0,-22.623037338256836
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4726.wav,real_phone,CallHome English (real phone call),0,-20.956985473632812
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4569.wav,real_phone,CallHome English (real phone call),0,-16.238149642944336
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4902.wav,real_phone,CallHome English (real phone call),0,-21.43389892578125
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4310.wav,real_phone,CallHome English (real phone call),0,-20.142349243164062
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_5648.wav,real_phone,CallHome English (real phone call),0,-18.935338973999023
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4245.wav,real_phone,CallHome English (real phone call),0,-17.61524200439453
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4968.wav,real_phone,CallHome English (real phone call),0,-20.395156860351562
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_5788.wav,real_phone,CallHome English (real phone call),0,-19.7453670501709
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4544.wav,real_phone,CallHome English (real phone call),0,-21.864543914794922
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_6130.wav,real_phone,CallHome English (real phone call),0,-22.088417053222656
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4861.wav,real_phone,CallHome English (real phone call),0,-22.03059959411621
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_5373.wav,real_phone,CallHome English (real phone call),0,-22.95599365234375
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_6479.wav,real_phone,CallHome English (real phone call),0,-22.073123931884766
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_6474.wav,real_phone,CallHome English (real phone call),0,-21.781963348388672
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_6107.wav,real_phone,CallHome English (real phone call),0,-22.12976837158203
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4315.wav,real_phone,CallHome English (real phone call),0,-19.73583984375
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4595.wav,real_phone,CallHome English (real phone call),0,-17.621370315551758
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_6521.wav,real_phone,CallHome English (real phone call),0,-16.64995574951172
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_5532.wav,real_phone,CallHome English (real phone call),0,-17.76304054260254
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4157.wav,real_phone,CallHome English (real phone call),0,-23.40576171875
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_6033.wav,real_phone,CallHome English (real phone call),0,-19.11260986328125
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_5273.wav,real_phone,CallHome English (real phone call),0,-17.04686737060547
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4623.wav,real_phone,CallHome English (real phone call),0,-12.971799850463867
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4802.wav,real_phone,CallHome English (real phone call),0,-18.372528076171875
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4887.wav,real_phone,CallHome English (real phone call),0,-23.76179313659668
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_6071.wav,real_phone,CallHome English (real phone call),0,-22.5157413482666
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4629.wav,real_phone,CallHome English (real phone call),0,-9.725288391113281
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_6447.wav,real_phone,CallHome English (real phone call),0,-17.406627655029297
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4610.wav,real_phone,CallHome English (real phone call),0,-15.256790161132812
+ProSDD (ASVspoof5),data/clips/real_phone/callhome_4967.wav,real_phone,CallHome English (real phone call),0,-21.16988754272461
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_clean,ElevenLabs v4,1,-22.1857967376709
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_phone,ElevenLabs v4 (via phone line),1,-22.462583541870117
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_clean,ElevenLabs v4,1,-18.335735321044922
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_phone,ElevenLabs v4 (via phone line),1,-19.75151824951172
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_clean,ElevenLabs v4,1,-20.20001220703125
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_phone,ElevenLabs v4 (via phone line),1,-19.040863037109375
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_clean,ElevenLabs v4,1,-19.24816131591797
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-18.123512268066406
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_clean,ElevenLabs v4,1,-23.981348037719727
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_phone,ElevenLabs v4 (via phone line),1,-25.164554595947266
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_clean,ElevenLabs v4,1,-22.889968872070312
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_phone,ElevenLabs v4 (via phone line),1,-23.583309173583984
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_clean,ElevenLabs v4,1,-17.339744567871094
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_phone,ElevenLabs v4 (via phone line),1,-20.028881072998047
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_clean,ElevenLabs v4,1,-19.064849853515625
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_phone,ElevenLabs v4 (via phone line),1,-19.14350128173828
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_clean,ElevenLabs v4,1,-19.26607322692871
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_phone,ElevenLabs v4 (via phone line),1,-18.448184967041016
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_clean,ElevenLabs v4,1,-20.82269859313965
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_phone,ElevenLabs v4 (via phone line),1,-22.831642150878906
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_clean,ElevenLabs v4,1,-18.39496612548828
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_phone,ElevenLabs v4 (via phone line),1,-16.779935836791992
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_clean,ElevenLabs v4,1,-23.311443328857422
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_phone,ElevenLabs v4 (via phone line),1,-23.760597229003906
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_clean,ElevenLabs v4,1,-22.131996154785156
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_phone,ElevenLabs v4 (via phone line),1,-22.858882904052734
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_clean,ElevenLabs v4,1,-22.53012466430664
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_phone,ElevenLabs v4 (via phone line),1,-21.011632919311523
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_clean,ElevenLabs v4,1,-18.830326080322266
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_phone,ElevenLabs v4 (via phone line),1,-17.947608947753906
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_clean,ElevenLabs v4,1,-22.058433532714844
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_phone,ElevenLabs v4 (via phone line),1,-20.044763565063477
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_clean,ElevenLabs v4,1,-24.1691837310791
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-24.327655792236328
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_clean,ElevenLabs v4,1,-22.070404052734375
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_phone,ElevenLabs v4 (via phone line),1,-24.009952545166016
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_clean,ElevenLabs v4,1,-19.640560150146484
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_phone,ElevenLabs v4 (via phone line),1,-18.22403907775879
+ProSDD (ASVspoof5),data/clips/ai_clean/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_clean,ElevenLabs v4,1,-17.34612274169922
+ProSDD (ASVspoof5),data/clips/ai_phone/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_phone,ElevenLabs v4 (via phone line),1,-19.29522705078125
+ProSDD (ASVspoof5),data/clips/ai_clean/el2_00.wav,ai_clean,ElevenLabs multilingual v2,1,-18.89534568786621
+ProSDD (ASVspoof5),data/clips/ai_phone/el2_00.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-20.060279846191406
+ProSDD (ASVspoof5),data/clips/ai_clean/el2_01.wav,ai_clean,ElevenLabs multilingual v2,1,-19.402767181396484
+ProSDD (ASVspoof5),data/clips/ai_phone/el2_01.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-22.017173767089844
+ProSDD (ASVspoof5),data/clips/ai_clean/el2_02.wav,ai_clean,ElevenLabs multilingual v2,1,-20.936731338500977
+ProSDD (ASVspoof5),data/clips/ai_phone/el2_02.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-21.17192840576172
+ProSDD (ASVspoof5),data/clips/ai_clean/el2_03.wav,ai_clean,ElevenLabs multilingual v2,1,-20.14729118347168
+ProSDD (ASVspoof5),data/clips/ai_phone/el2_03.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-20.360754013061523
+ProSDD (ASVspoof5),data/clips/ai_clean/el2_04.wav,ai_clean,ElevenLabs multilingual v2,1,-20.916152954101562
+ProSDD (ASVspoof5),data/clips/ai_phone/el2_04.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-21.89289665222168
+ProSDD (ASVspoof5),data/clips/ai_clean/el2_05.wav,ai_clean,ElevenLabs multilingual v2,1,-19.330196380615234
+ProSDD (ASVspoof5),data/clips/ai_phone/el2_05.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-21.845531463623047
+ProSDD (ASVspoof5),data/clips/ai_clean/edge_en-US-AriaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-14.911166191101074
+ProSDD (ASVspoof5),data/clips/ai_phone/edge_en-US-AriaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-17.458541870117188
+ProSDD (ASVspoof5),data/clips/ai_clean/edge_en-US-GuyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-11.330987930297852
+ProSDD (ASVspoof5),data/clips/ai_phone/edge_en-US-GuyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-13.279016494750977
+ProSDD (ASVspoof5),data/clips/ai_clean/edge_en-US-JennyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-15.115812301635742
+ProSDD (ASVspoof5),data/clips/ai_phone/edge_en-US-JennyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-16.078210830688477
+ProSDD (ASVspoof5),data/clips/ai_clean/edge_en-GB-SoniaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-17.343524932861328
+ProSDD (ASVspoof5),data/clips/ai_phone/edge_en-GB-SoniaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-22.695207595825195
+ProSDD (ASVspoof5),data/clips/ai_clean/edge_en-US-ChristopherNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-0.8605161309242249
+ProSDD (ASVspoof5),data/clips/ai_phone/edge_en-US-ChristopherNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-10.167678833007812
+ProSDD (ASVspoof5),data/clips/ai_clean/edge_en-AU-NatashaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,1.4221067428588867
+ProSDD (ASVspoof5),data/clips/ai_phone/edge_en-AU-NatashaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-15.140203475952148
+ProSDD (ASVspoof5),data/clips/ai_clean/edge_en-US-EricNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-6.461553573608398
+ProSDD (ASVspoof5),data/clips/ai_phone/edge_en-US-EricNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-11.930706024169922
+ProSDD (ASVspoof5),data/clips/ai_clean/edge_en-IN-NeerjaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-11.177629470825195
+ProSDD (ASVspoof5),data/clips/ai_phone/edge_en-IN-NeerjaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-17.609750747680664
+Pellav2,data/clips/real_phone/callhome_5712.wav,real_phone,CallHome English (real phone call),0,-6.4481306076049805
+Pellav2,data/clips/real_phone/callhome_5931.wav,real_phone,CallHome English (real phone call),0,-7.08661413192749
+Pellav2,data/clips/real_phone/callhome_4184.wav,real_phone,CallHome English (real phone call),0,-7.090530872344971
+Pellav2,data/clips/real_phone/callhome_4838.wav,real_phone,CallHome English (real phone call),0,-5.728402614593506
+Pellav2,data/clips/real_phone/callhome_6456.wav,real_phone,CallHome English (real phone call),0,-6.996115684509277
+Pellav2,data/clips/real_phone/callhome_6298.wav,real_phone,CallHome English (real phone call),0,-6.644413471221924
+Pellav2,data/clips/real_phone/callhome_5866.wav,real_phone,CallHome English (real phone call),0,-7.063754081726074
+Pellav2,data/clips/real_phone/callhome_4941.wav,real_phone,CallHome English (real phone call),0,-7.144978046417236
+Pellav2,data/clips/real_phone/callhome_6265.wav,real_phone,CallHome English (real phone call),0,-6.711375713348389
+Pellav2,data/clips/real_phone/callhome_5388.wav,real_phone,CallHome English (real phone call),0,-6.563653469085693
+Pellav2,data/clips/real_phone/callhome_4726.wav,real_phone,CallHome English (real phone call),0,-6.82490873336792
+Pellav2,data/clips/real_phone/callhome_4569.wav,real_phone,CallHome English (real phone call),0,-6.900726318359375
+Pellav2,data/clips/real_phone/callhome_4902.wav,real_phone,CallHome English (real phone call),0,-6.984585762023926
+Pellav2,data/clips/real_phone/callhome_4310.wav,real_phone,CallHome English (real phone call),0,-7.058665752410889
+Pellav2,data/clips/real_phone/callhome_5648.wav,real_phone,CallHome English (real phone call),0,-7.146212577819824
+Pellav2,data/clips/real_phone/callhome_4245.wav,real_phone,CallHome English (real phone call),0,-6.119976997375488
+Pellav2,data/clips/real_phone/callhome_4968.wav,real_phone,CallHome English (real phone call),0,-7.147083282470703
+Pellav2,data/clips/real_phone/callhome_5788.wav,real_phone,CallHome English (real phone call),0,-7.006369113922119
+Pellav2,data/clips/real_phone/callhome_4544.wav,real_phone,CallHome English (real phone call),0,-6.981363773345947
+Pellav2,data/clips/real_phone/callhome_6130.wav,real_phone,CallHome English (real phone call),0,-6.559206485748291
+Pellav2,data/clips/real_phone/callhome_4861.wav,real_phone,CallHome English (real phone call),0,-7.032486915588379
+Pellav2,data/clips/real_phone/callhome_5373.wav,real_phone,CallHome English (real phone call),0,-7.009917736053467
+Pellav2,data/clips/real_phone/callhome_6479.wav,real_phone,CallHome English (real phone call),0,-5.8684868812561035
+Pellav2,data/clips/real_phone/callhome_6474.wav,real_phone,CallHome English (real phone call),0,-6.687498569488525
+Pellav2,data/clips/real_phone/callhome_6107.wav,real_phone,CallHome English (real phone call),0,-7.224266529083252
+Pellav2,data/clips/real_phone/callhome_4315.wav,real_phone,CallHome English (real phone call),0,-6.791168212890625
+Pellav2,data/clips/real_phone/callhome_4595.wav,real_phone,CallHome English (real phone call),0,-7.020412921905518
+Pellav2,data/clips/real_phone/callhome_6521.wav,real_phone,CallHome English (real phone call),0,-6.140420436859131
+Pellav2,data/clips/real_phone/callhome_5532.wav,real_phone,CallHome English (real phone call),0,-7.030914783477783
+Pellav2,data/clips/real_phone/callhome_4157.wav,real_phone,CallHome English (real phone call),0,-7.007754802703857
+Pellav2,data/clips/real_phone/callhome_6033.wav,real_phone,CallHome English (real phone call),0,-7.031289577484131
+Pellav2,data/clips/real_phone/callhome_5273.wav,real_phone,CallHome English (real phone call),0,-6.956873416900635
+Pellav2,data/clips/real_phone/callhome_4623.wav,real_phone,CallHome English (real phone call),0,-6.876062870025635
+Pellav2,data/clips/real_phone/callhome_4802.wav,real_phone,CallHome English (real phone call),0,-7.17991828918457
+Pellav2,data/clips/real_phone/callhome_4887.wav,real_phone,CallHome English (real phone call),0,-6.386229038238525
+Pellav2,data/clips/real_phone/callhome_6071.wav,real_phone,CallHome English (real phone call),0,-7.123812675476074
+Pellav2,data/clips/real_phone/callhome_4629.wav,real_phone,CallHome English (real phone call),0,-7.155416011810303
+Pellav2,data/clips/real_phone/callhome_6447.wav,real_phone,CallHome English (real phone call),0,-7.098642349243164
+Pellav2,data/clips/real_phone/callhome_4610.wav,real_phone,CallHome English (real phone call),0,-6.847256183624268
+Pellav2,data/clips/real_phone/callhome_4967.wav,real_phone,CallHome English (real phone call),0,-6.873627662658691
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_clean,ElevenLabs v4,1,7.4334025382995605
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.183680534362793
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_clean,ElevenLabs v4,1,6.751658916473389
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.35909366607666
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_clean,ElevenLabs v4,1,6.611293792724609
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.868678569793701
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_clean,ElevenLabs v4,1,7.379255771636963
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.302881717681885
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_clean,ElevenLabs v4,1,6.217934608459473
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.497121334075928
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_clean,ElevenLabs v4,1,7.357315540313721
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.786747932434082
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_clean,ElevenLabs v4,1,6.715552806854248
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.695451736450195
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_clean,ElevenLabs v4,1,7.4879679679870605
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_phone,ElevenLabs v4 (via phone line),1,4.434485912322998
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_clean,ElevenLabs v4,1,7.040977954864502
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.261641979217529
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_clean,ElevenLabs v4,1,5.0981035232543945
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.531313419342041
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_clean,ElevenLabs v4,1,7.38729190826416
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.3549723625183105
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_clean,ElevenLabs v4,1,7.382589817047119
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_phone,ElevenLabs v4 (via phone line),1,4.104167461395264
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_clean,ElevenLabs v4,1,7.485859394073486
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.111191749572754
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_clean,ElevenLabs v4,1,6.283205509185791
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.71469259262085
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_clean,ElevenLabs v4,1,7.406277179718018
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_phone,ElevenLabs v4 (via phone line),1,6.650129795074463
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_clean,ElevenLabs v4,1,7.36027193069458
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_phone,ElevenLabs v4 (via phone line),1,5.604835510253906
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_clean,ElevenLabs v4,1,-7.042440891265869
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-7.002011299133301
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_clean,ElevenLabs v4,1,7.116945743560791
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.532230854034424
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_clean,ElevenLabs v4,1,6.974519729614258
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.056662082672119
+Pellav2,data/clips/ai_clean/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_clean,ElevenLabs v4,1,6.468455791473389
+Pellav2,data/clips/ai_phone/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.912617206573486
+Pellav2,data/clips/ai_clean/el2_00.wav,ai_clean,ElevenLabs multilingual v2,1,7.369429111480713
+Pellav2,data/clips/ai_phone/el2_00.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,4.784274578094482
+Pellav2,data/clips/ai_clean/el2_01.wav,ai_clean,ElevenLabs multilingual v2,1,7.415316104888916
+Pellav2,data/clips/ai_phone/el2_01.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,5.024487018585205
+Pellav2,data/clips/ai_clean/el2_02.wav,ai_clean,ElevenLabs multilingual v2,1,6.9227824211120605
+Pellav2,data/clips/ai_phone/el2_02.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,4.9844746589660645
+Pellav2,data/clips/ai_clean/el2_03.wav,ai_clean,ElevenLabs multilingual v2,1,7.233030319213867
+Pellav2,data/clips/ai_phone/el2_03.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,5.9254536628723145
+Pellav2,data/clips/ai_clean/el2_04.wav,ai_clean,ElevenLabs multilingual v2,1,7.425356864929199
+Pellav2,data/clips/ai_phone/el2_04.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,7.132434368133545
+Pellav2,data/clips/ai_clean/el2_05.wav,ai_clean,ElevenLabs multilingual v2,1,7.37053108215332
+Pellav2,data/clips/ai_phone/el2_05.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,6.8749165534973145
+Pellav2,data/clips/ai_clean/edge_en-US-AriaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,7.447088241577148
+Pellav2,data/clips/ai_phone/edge_en-US-AriaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,6.402129650115967
+Pellav2,data/clips/ai_clean/edge_en-US-GuyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,7.469979763031006
+Pellav2,data/clips/ai_phone/edge_en-US-GuyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,7.346219062805176
+Pellav2,data/clips/ai_clean/edge_en-US-JennyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,7.442434787750244
+Pellav2,data/clips/ai_phone/edge_en-US-JennyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,7.240296363830566
+Pellav2,data/clips/ai_clean/edge_en-GB-SoniaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,7.473452091217041
+Pellav2,data/clips/ai_phone/edge_en-GB-SoniaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,4.960236549377441
+Pellav2,data/clips/ai_clean/edge_en-US-ChristopherNeural.wav,ai_clean,Microsoft Edge neural TTS,1,7.401669502258301
+Pellav2,data/clips/ai_phone/edge_en-US-ChristopherNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,6.829448223114014
+Pellav2,data/clips/ai_clean/edge_en-AU-NatashaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,7.5087080001831055
+Pellav2,data/clips/ai_phone/edge_en-AU-NatashaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,7.26900053024292
+Pellav2,data/clips/ai_clean/edge_en-US-EricNeural.wav,ai_clean,Microsoft Edge neural TTS,1,7.45995569229126
+Pellav2,data/clips/ai_phone/edge_en-US-EricNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,7.2375168800354
+Pellav2,data/clips/ai_clean/edge_en-IN-NeerjaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,7.454345226287842
+Pellav2,data/clips/ai_phone/edge_en-IN-NeerjaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,6.59701681137085
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_5712.wav,real_phone,CallHome English (real phone call),0,0.13712191581726074
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_5931.wav,real_phone,CallHome English (real phone call),0,-1.8223310708999634
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4184.wav,real_phone,CallHome English (real phone call),0,-1.7815344333648682
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4838.wav,real_phone,CallHome English (real phone call),0,-0.42624998092651367
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_6456.wav,real_phone,CallHome English (real phone call),0,-2.5463342666625977
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_6298.wav,real_phone,CallHome English (real phone call),0,0.12209390103816986
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_5866.wav,real_phone,CallHome English (real phone call),0,0.20345398783683777
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4941.wav,real_phone,CallHome English (real phone call),0,1.7402487993240356
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_6265.wav,real_phone,CallHome English (real phone call),0,-1.0565929412841797
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_5388.wav,real_phone,CallHome English (real phone call),0,0.17936399579048157
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4726.wav,real_phone,CallHome English (real phone call),0,-2.025923728942871
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4569.wav,real_phone,CallHome English (real phone call),0,1.6535300016403198
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4902.wav,real_phone,CallHome English (real phone call),0,-1.805760383605957
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4310.wav,real_phone,CallHome English (real phone call),0,-0.06877795606851578
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_5648.wav,real_phone,CallHome English (real phone call),0,1.5626096725463867
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4245.wav,real_phone,CallHome English (real phone call),0,-0.06546776741743088
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4968.wav,real_phone,CallHome English (real phone call),0,-1.2661716938018799
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_5788.wav,real_phone,CallHome English (real phone call),0,0.5911720991134644
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4544.wav,real_phone,CallHome English (real phone call),0,1.8492445945739746
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_6130.wav,real_phone,CallHome English (real phone call),0,-1.9271845817565918
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4861.wav,real_phone,CallHome English (real phone call),0,-1.7735756635665894
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_5373.wav,real_phone,CallHome English (real phone call),0,-0.42623284459114075
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_6479.wav,real_phone,CallHome English (real phone call),0,2.035090923309326
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_6474.wav,real_phone,CallHome English (real phone call),0,-2.2154157161712646
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_6107.wav,real_phone,CallHome English (real phone call),0,1.3699895143508911
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4315.wav,real_phone,CallHome English (real phone call),0,2.130557060241699
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4595.wav,real_phone,CallHome English (real phone call),0,-0.12377709895372391
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_6521.wav,real_phone,CallHome English (real phone call),0,-2.6011414527893066
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_5532.wav,real_phone,CallHome English (real phone call),0,-1.4415757656097412
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4157.wav,real_phone,CallHome English (real phone call),0,0.9964441061019897
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_6033.wav,real_phone,CallHome English (real phone call),0,-0.9056016206741333
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_5273.wav,real_phone,CallHome English (real phone call),0,-2.4221560955047607
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4623.wav,real_phone,CallHome English (real phone call),0,-2.0640835762023926
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4802.wav,real_phone,CallHome English (real phone call),0,-1.72944974899292
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4887.wav,real_phone,CallHome English (real phone call),0,0.8881667852401733
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_6071.wav,real_phone,CallHome English (real phone call),0,-2.2015676498413086
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4629.wav,real_phone,CallHome English (real phone call),0,-0.7786746621131897
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_6447.wav,real_phone,CallHome English (real phone call),0,-1.732067584991455
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4610.wav,real_phone,CallHome English (real phone call),0,-2.3120946884155273
+wav2vec2-XLSR (Gustking),data/clips/real_phone/callhome_4967.wav,real_phone,CallHome English (real phone call),0,-2.078841209411621
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_clean,ElevenLabs v4,1,-1.6093592643737793
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_phone,ElevenLabs v4 (via phone line),1,-1.8369094133377075
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_clean,ElevenLabs v4,1,-2.46077036857605
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.4597177505493164
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_clean,ElevenLabs v4,1,-2.002875804901123
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.2199440002441406
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_clean,ElevenLabs v4,1,-1.8260130882263184
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.3491435050964355
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_clean,ElevenLabs v4,1,-1.9449630975723267
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.9083994626998901
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_clean,ElevenLabs v4,1,-0.8543977737426758
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.03877592086792
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_clean,ElevenLabs v4,1,-2.0047943592071533
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.016305923461914
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_clean,ElevenLabs v4,1,2.071242332458496
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_phone,ElevenLabs v4 (via phone line),1,-1.3000729084014893
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_clean,ElevenLabs v4,1,-1.8730838298797607
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.1436638832092285
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_clean,ElevenLabs v4,1,-1.528388261795044
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.1504924297332764
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_clean,ElevenLabs v4,1,-0.2676645517349243
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.009683132171631
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_clean,ElevenLabs v4,1,-1.1145986318588257
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_phone,ElevenLabs v4 (via phone line),1,-1.212721586227417
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_clean,ElevenLabs v4,1,-2.3487210273742676
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.1402318477630615
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_clean,ElevenLabs v4,1,0.8964303135871887
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.3775827884674072
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_clean,ElevenLabs v4,1,0.16409344971179962
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_phone,ElevenLabs v4 (via phone line),1,-0.31435614824295044
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_clean,ElevenLabs v4,1,1.1185330152511597
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.9412429332733154
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_clean,ElevenLabs v4,1,-2.0248756408691406
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.344306468963623
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_clean,ElevenLabs v4,1,-1.7998943328857422
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.172398567199707
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_clean,ElevenLabs v4,1,2.226069450378418
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_phone,ElevenLabs v4 (via phone line),1,2.05537748336792
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_clean,ElevenLabs v4,1,0.5532166957855225
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_phone,ElevenLabs v4 (via phone line),1,-0.0020333905704319477
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el2_00.wav,ai_clean,ElevenLabs multilingual v2,1,-0.7752307653427124
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el2_00.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-1.3925970792770386
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el2_01.wav,ai_clean,ElevenLabs multilingual v2,1,-1.1432359218597412
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el2_01.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-1.5499197244644165
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el2_02.wav,ai_clean,ElevenLabs multilingual v2,1,0.6098799705505371
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el2_02.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,1.3862464427947998
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el2_03.wav,ai_clean,ElevenLabs multilingual v2,1,0.9338438510894775
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el2_03.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-0.7088021636009216
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el2_04.wav,ai_clean,ElevenLabs multilingual v2,1,-0.9656972885131836
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el2_04.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-0.21183010935783386
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/el2_05.wav,ai_clean,ElevenLabs multilingual v2,1,-0.8761569261550903
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/el2_05.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-1.3265855312347412
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/edge_en-US-AriaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-1.5449975728988647
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/edge_en-US-AriaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-2.3077664375305176
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/edge_en-US-GuyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-1.1391297578811646
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/edge_en-US-GuyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-2.0476694107055664
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/edge_en-US-JennyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-1.9900362491607666
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/edge_en-US-JennyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-2.4388113021850586
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/edge_en-GB-SoniaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,0.07148520648479462
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/edge_en-GB-SoniaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-1.8472566604614258
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/edge_en-US-ChristopherNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-1.2338860034942627
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/edge_en-US-ChristopherNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-1.7469823360443115
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/edge_en-AU-NatashaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-0.6522840261459351
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/edge_en-AU-NatashaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-1.2044273614883423
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/edge_en-US-EricNeural.wav,ai_clean,Microsoft Edge neural TTS,1,2.373281955718994
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/edge_en-US-EricNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,1.8571488857269287
+wav2vec2-XLSR (Gustking),data/clips/ai_clean/edge_en-IN-NeerjaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-1.9055180549621582
+wav2vec2-XLSR (Gustking),data/clips/ai_phone/edge_en-IN-NeerjaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-1.9079418182373047
+SONAR,data/clips/real_phone/callhome_5712.wav,real_phone,CallHome English (real phone call),0,0.4993797540664673
+SONAR,data/clips/real_phone/callhome_5931.wav,real_phone,CallHome English (real phone call),0,-5.170137405395508
+SONAR,data/clips/real_phone/callhome_4184.wav,real_phone,CallHome English (real phone call),0,-5.555085182189941
+SONAR,data/clips/real_phone/callhome_4838.wav,real_phone,CallHome English (real phone call),0,1.9277560710906982
+SONAR,data/clips/real_phone/callhome_6456.wav,real_phone,CallHome English (real phone call),0,-4.3682050704956055
+SONAR,data/clips/real_phone/callhome_6298.wav,real_phone,CallHome English (real phone call),0,1.347246766090393
+SONAR,data/clips/real_phone/callhome_5866.wav,real_phone,CallHome English (real phone call),0,-2.3011703491210938
+SONAR,data/clips/real_phone/callhome_4941.wav,real_phone,CallHome English (real phone call),0,1.2109293937683105
+SONAR,data/clips/real_phone/callhome_6265.wav,real_phone,CallHome English (real phone call),0,-2.900026321411133
+SONAR,data/clips/real_phone/callhome_5388.wav,real_phone,CallHome English (real phone call),0,1.3609192371368408
+SONAR,data/clips/real_phone/callhome_4726.wav,real_phone,CallHome English (real phone call),0,0.2615518569946289
+SONAR,data/clips/real_phone/callhome_4569.wav,real_phone,CallHome English (real phone call),0,0.9574301242828369
+SONAR,data/clips/real_phone/callhome_4902.wav,real_phone,CallHome English (real phone call),0,-3.314065456390381
+SONAR,data/clips/real_phone/callhome_4310.wav,real_phone,CallHome English (real phone call),0,-5.363921642303467
+SONAR,data/clips/real_phone/callhome_5648.wav,real_phone,CallHome English (real phone call),0,0.9465571641921997
+SONAR,data/clips/real_phone/callhome_4245.wav,real_phone,CallHome English (real phone call),0,-2.0395278930664062
+SONAR,data/clips/real_phone/callhome_4968.wav,real_phone,CallHome English (real phone call),0,1.4613313674926758
+SONAR,data/clips/real_phone/callhome_5788.wav,real_phone,CallHome English (real phone call),0,1.550254225730896
+SONAR,data/clips/real_phone/callhome_4544.wav,real_phone,CallHome English (real phone call),0,2.0428476333618164
+SONAR,data/clips/real_phone/callhome_6130.wav,real_phone,CallHome English (real phone call),0,0.9261143207550049
+SONAR,data/clips/real_phone/callhome_4861.wav,real_phone,CallHome English (real phone call),0,0.6116139888763428
+SONAR,data/clips/real_phone/callhome_5373.wav,real_phone,CallHome English (real phone call),0,-5.583793640136719
+SONAR,data/clips/real_phone/callhome_6479.wav,real_phone,CallHome English (real phone call),0,1.1799529790878296
+SONAR,data/clips/real_phone/callhome_6474.wav,real_phone,CallHome English (real phone call),0,-0.05329853296279907
+SONAR,data/clips/real_phone/callhome_6107.wav,real_phone,CallHome English (real phone call),0,-2.64622163772583
+SONAR,data/clips/real_phone/callhome_4315.wav,real_phone,CallHome English (real phone call),0,-4.838077545166016
+SONAR,data/clips/real_phone/callhome_4595.wav,real_phone,CallHome English (real phone call),0,1.524766445159912
+SONAR,data/clips/real_phone/callhome_6521.wav,real_phone,CallHome English (real phone call),0,1.5527135133743286
+SONAR,data/clips/real_phone/callhome_5532.wav,real_phone,CallHome English (real phone call),0,-3.784073829650879
+SONAR,data/clips/real_phone/callhome_4157.wav,real_phone,CallHome English (real phone call),0,-0.3418598771095276
+SONAR,data/clips/real_phone/callhome_6033.wav,real_phone,CallHome English (real phone call),0,-2.642875909805298
+SONAR,data/clips/real_phone/callhome_5273.wav,real_phone,CallHome English (real phone call),0,1.251121997833252
+SONAR,data/clips/real_phone/callhome_4623.wav,real_phone,CallHome English (real phone call),0,1.245139479637146
+SONAR,data/clips/real_phone/callhome_4802.wav,real_phone,CallHome English (real phone call),0,-2.5585012435913086
+SONAR,data/clips/real_phone/callhome_4887.wav,real_phone,CallHome English (real phone call),0,1.4870457649230957
+SONAR,data/clips/real_phone/callhome_6071.wav,real_phone,CallHome English (real phone call),0,-3.658237934112549
+SONAR,data/clips/real_phone/callhome_4629.wav,real_phone,CallHome English (real phone call),0,-2.8751797676086426
+SONAR,data/clips/real_phone/callhome_6447.wav,real_phone,CallHome English (real phone call),0,-2.8912086486816406
+SONAR,data/clips/real_phone/callhome_4610.wav,real_phone,CallHome English (real phone call),0,-5.591391563415527
+SONAR,data/clips/real_phone/callhome_4967.wav,real_phone,CallHome English (real phone call),0,0.8066145181655884
+SONAR,data/clips/ai_clean/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_clean,ElevenLabs v4,1,-4.242480278015137
+SONAR,data/clips/ai_phone/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.0846672058105469
+SONAR,data/clips/ai_clean/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_clean,ElevenLabs v4,1,-2.1566128730773926
+SONAR,data/clips/ai_phone/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_phone,ElevenLabs v4 (via phone line),1,-0.34323298931121826
+SONAR,data/clips/ai_clean/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_clean,ElevenLabs v4,1,-4.912684440612793
+SONAR,data/clips/ai_phone/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.370419502258301
+SONAR,data/clips/ai_clean/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_clean,ElevenLabs v4,1,-3.381854772567749
+SONAR,data/clips/ai_phone/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-1.8763989210128784
+SONAR,data/clips/ai_clean/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_clean,ElevenLabs v4,1,-5.588966369628906
+SONAR,data/clips/ai_phone/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.033505439758301
+SONAR,data/clips/ai_clean/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_clean,ElevenLabs v4,1,-5.4528703689575195
+SONAR,data/clips/ai_phone/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.779077529907227
+SONAR,data/clips/ai_clean/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_clean,ElevenLabs v4,1,-5.752974033355713
+SONAR,data/clips/ai_phone/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.493640899658203
+SONAR,data/clips/ai_clean/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_clean,ElevenLabs v4,1,-2.753187656402588
+SONAR,data/clips/ai_phone/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.613854885101318
+SONAR,data/clips/ai_clean/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_clean,ElevenLabs v4,1,-5.442480564117432
+SONAR,data/clips/ai_phone/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.250959396362305
+SONAR,data/clips/ai_clean/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_clean,ElevenLabs v4,1,-0.20936572551727295
+SONAR,data/clips/ai_phone/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_phone,ElevenLabs v4 (via phone line),1,0.5606106519699097
+SONAR,data/clips/ai_clean/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_clean,ElevenLabs v4,1,-2.4317944049835205
+SONAR,data/clips/ai_phone/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_phone,ElevenLabs v4 (via phone line),1,-1.9330463409423828
+SONAR,data/clips/ai_clean/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_clean,ElevenLabs v4,1,-3.0200014114379883
+SONAR,data/clips/ai_phone/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.309229373931885
+SONAR,data/clips/ai_clean/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_clean,ElevenLabs v4,1,-3.7924351692199707
+SONAR,data/clips/ai_phone/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.838183403015137
+SONAR,data/clips/ai_clean/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_clean,ElevenLabs v4,1,-5.338792324066162
+SONAR,data/clips/ai_phone/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.314092636108398
+SONAR,data/clips/ai_clean/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_clean,ElevenLabs v4,1,-4.814815998077393
+SONAR,data/clips/ai_phone/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.258786678314209
+SONAR,data/clips/ai_clean/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_clean,ElevenLabs v4,1,-3.9258904457092285
+SONAR,data/clips/ai_phone/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_phone,ElevenLabs v4 (via phone line),1,0.8148057460784912
+SONAR,data/clips/ai_clean/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_clean,ElevenLabs v4,1,-5.669327259063721
+SONAR,data/clips/ai_phone/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.729153633117676
+SONAR,data/clips/ai_clean/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_clean,ElevenLabs v4,1,1.041656732559204
+SONAR,data/clips/ai_phone/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.855779767036438
+SONAR,data/clips/ai_clean/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_clean,ElevenLabs v4,1,-5.959259510040283
+SONAR,data/clips/ai_phone/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.746964454650879
+SONAR,data/clips/ai_clean/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_clean,ElevenLabs v4,1,-6.257132530212402
+SONAR,data/clips/ai_phone/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.811856269836426
+SONAR,data/clips/ai_clean/el2_00.wav,ai_clean,ElevenLabs multilingual v2,1,-2.551795721054077
+SONAR,data/clips/ai_phone/el2_00.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-1.894845962524414
+SONAR,data/clips/ai_clean/el2_01.wav,ai_clean,ElevenLabs multilingual v2,1,-3.2077670097351074
+SONAR,data/clips/ai_phone/el2_01.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,1.3972876071929932
+SONAR,data/clips/ai_clean/el2_02.wav,ai_clean,ElevenLabs multilingual v2,1,0.14341133832931519
+SONAR,data/clips/ai_phone/el2_02.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,1.0930335521697998
+SONAR,data/clips/ai_clean/el2_03.wav,ai_clean,ElevenLabs multilingual v2,1,0.7836010456085205
+SONAR,data/clips/ai_phone/el2_03.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,1.0239301919937134
+SONAR,data/clips/ai_clean/el2_04.wav,ai_clean,ElevenLabs multilingual v2,1,-3.7060766220092773
+SONAR,data/clips/ai_phone/el2_04.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-0.22839689254760742
+SONAR,data/clips/ai_clean/el2_05.wav,ai_clean,ElevenLabs multilingual v2,1,-1.5382236242294312
+SONAR,data/clips/ai_phone/el2_05.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,0.839332103729248
+SONAR,data/clips/ai_clean/edge_en-US-AriaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-2.394007682800293
+SONAR,data/clips/ai_phone/edge_en-US-AriaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-0.3524341583251953
+SONAR,data/clips/ai_clean/edge_en-US-GuyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-1.8814481496810913
+SONAR,data/clips/ai_phone/edge_en-US-GuyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-0.3174264430999756
+SONAR,data/clips/ai_clean/edge_en-US-JennyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-6.2278947830200195
+SONAR,data/clips/ai_phone/edge_en-US-JennyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-2.7836296558380127
+SONAR,data/clips/ai_clean/edge_en-GB-SoniaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-4.130910873413086
+SONAR,data/clips/ai_phone/edge_en-GB-SoniaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-5.265881538391113
+SONAR,data/clips/ai_clean/edge_en-US-ChristopherNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-2.859950304031372
+SONAR,data/clips/ai_phone/edge_en-US-ChristopherNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,1.4504092931747437
+SONAR,data/clips/ai_clean/edge_en-AU-NatashaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-2.4463951587677
+SONAR,data/clips/ai_phone/edge_en-AU-NatashaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,0.9904730319976807
+SONAR,data/clips/ai_clean/edge_en-US-EricNeural.wav,ai_clean,Microsoft Edge neural TTS,1,2.060866594314575
+SONAR,data/clips/ai_phone/edge_en-US-EricNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,2.035961389541626
+SONAR,data/clips/ai_clean/edge_en-IN-NeerjaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-2.271894931793213
+SONAR,data/clips/ai_phone/edge_en-IN-NeerjaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-2.3288164138793945
+NII MMS-1B,data/clips/real_phone/callhome_5712.wav,real_phone,CallHome English (real phone call),0,-8.378262519836426
+NII MMS-1B,data/clips/real_phone/callhome_5931.wav,real_phone,CallHome English (real phone call),0,-9.644874572753906
+NII MMS-1B,data/clips/real_phone/callhome_4184.wav,real_phone,CallHome English (real phone call),0,-10.072832107543945
+NII MMS-1B,data/clips/real_phone/callhome_4838.wav,real_phone,CallHome English (real phone call),0,-1.7273719310760498
+NII MMS-1B,data/clips/real_phone/callhome_6456.wav,real_phone,CallHome English (real phone call),0,-9.415437698364258
+NII MMS-1B,data/clips/real_phone/callhome_6298.wav,real_phone,CallHome English (real phone call),0,-6.0252685546875
+NII MMS-1B,data/clips/real_phone/callhome_5866.wav,real_phone,CallHome English (real phone call),0,-9.351512908935547
+NII MMS-1B,data/clips/real_phone/callhome_4941.wav,real_phone,CallHome English (real phone call),0,-9.288434982299805
+NII MMS-1B,data/clips/real_phone/callhome_6265.wav,real_phone,CallHome English (real phone call),0,-2.3430912494659424
+NII MMS-1B,data/clips/real_phone/callhome_5388.wav,real_phone,CallHome English (real phone call),0,-7.651882648468018
+NII MMS-1B,data/clips/real_phone/callhome_4726.wav,real_phone,CallHome English (real phone call),0,-9.737865447998047
+NII MMS-1B,data/clips/real_phone/callhome_4569.wav,real_phone,CallHome English (real phone call),0,-4.931970119476318
+NII MMS-1B,data/clips/real_phone/callhome_4902.wav,real_phone,CallHome English (real phone call),0,-9.045175552368164
+NII MMS-1B,data/clips/real_phone/callhome_4310.wav,real_phone,CallHome English (real phone call),0,-9.262418746948242
+NII MMS-1B,data/clips/real_phone/callhome_5648.wav,real_phone,CallHome English (real phone call),0,-8.935831069946289
+NII MMS-1B,data/clips/real_phone/callhome_4245.wav,real_phone,CallHome English (real phone call),0,-8.46025276184082
+NII MMS-1B,data/clips/real_phone/callhome_4968.wav,real_phone,CallHome English (real phone call),0,-8.300407409667969
+NII MMS-1B,data/clips/real_phone/callhome_5788.wav,real_phone,CallHome English (real phone call),0,-7.377230644226074
+NII MMS-1B,data/clips/real_phone/callhome_4544.wav,real_phone,CallHome English (real phone call),0,-6.228758335113525
+NII MMS-1B,data/clips/real_phone/callhome_6130.wav,real_phone,CallHome English (real phone call),0,-9.024425506591797
+NII MMS-1B,data/clips/real_phone/callhome_4861.wav,real_phone,CallHome English (real phone call),0,-8.599355697631836
+NII MMS-1B,data/clips/real_phone/callhome_5373.wav,real_phone,CallHome English (real phone call),0,-9.945575714111328
+NII MMS-1B,data/clips/real_phone/callhome_6479.wav,real_phone,CallHome English (real phone call),0,-6.20980167388916
+NII MMS-1B,data/clips/real_phone/callhome_6474.wav,real_phone,CallHome English (real phone call),0,-8.920011520385742
+NII MMS-1B,data/clips/real_phone/callhome_6107.wav,real_phone,CallHome English (real phone call),0,-9.797059059143066
+NII MMS-1B,data/clips/real_phone/callhome_4315.wav,real_phone,CallHome English (real phone call),0,-7.297358512878418
+NII MMS-1B,data/clips/real_phone/callhome_4595.wav,real_phone,CallHome English (real phone call),0,-7.631852149963379
+NII MMS-1B,data/clips/real_phone/callhome_6521.wav,real_phone,CallHome English (real phone call),0,-7.834284782409668
+NII MMS-1B,data/clips/real_phone/callhome_5532.wav,real_phone,CallHome English (real phone call),0,-9.602893829345703
+NII MMS-1B,data/clips/real_phone/callhome_4157.wav,real_phone,CallHome English (real phone call),0,-7.157623767852783
+NII MMS-1B,data/clips/real_phone/callhome_6033.wav,real_phone,CallHome English (real phone call),0,-7.985637187957764
+NII MMS-1B,data/clips/real_phone/callhome_5273.wav,real_phone,CallHome English (real phone call),0,-8.736724853515625
+NII MMS-1B,data/clips/real_phone/callhome_4623.wav,real_phone,CallHome English (real phone call),0,-8.998363494873047
+NII MMS-1B,data/clips/real_phone/callhome_4802.wav,real_phone,CallHome English (real phone call),0,-10.312950134277344
+NII MMS-1B,data/clips/real_phone/callhome_4887.wav,real_phone,CallHome English (real phone call),0,-9.471612930297852
+NII MMS-1B,data/clips/real_phone/callhome_6071.wav,real_phone,CallHome English (real phone call),0,-8.776373863220215
+NII MMS-1B,data/clips/real_phone/callhome_4629.wav,real_phone,CallHome English (real phone call),0,-9.971624374389648
+NII MMS-1B,data/clips/real_phone/callhome_6447.wav,real_phone,CallHome English (real phone call),0,-9.48687744140625
+NII MMS-1B,data/clips/real_phone/callhome_4610.wav,real_phone,CallHome English (real phone call),0,-8.932146072387695
+NII MMS-1B,data/clips/real_phone/callhome_4967.wav,real_phone,CallHome English (real phone call),0,-9.940839767456055
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_clean,ElevenLabs v4,1,-5.095548629760742
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.142789840698242
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_clean,ElevenLabs v4,1,-5.684239387512207
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_phone,ElevenLabs v4 (via phone line),1,-9.33713436126709
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_clean,ElevenLabs v4,1,-0.8774563670158386
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_phone,ElevenLabs v4 (via phone line),1,2.397716522216797
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_clean,ElevenLabs v4,1,-1.1292389631271362
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-3.784003257751465
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_clean,ElevenLabs v4,1,-4.3595781326293945
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.739464282989502
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_clean,ElevenLabs v4,1,-2.8489508628845215
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.5514817237854
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_clean,ElevenLabs v4,1,-4.480106353759766
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.734243392944336
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_clean,ElevenLabs v4,1,-4.306614875793457
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_phone,ElevenLabs v4 (via phone line),1,-9.92570686340332
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_clean,ElevenLabs v4,1,-0.05126230791211128
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_phone,ElevenLabs v4 (via phone line),1,-3.082108974456787
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_clean,ElevenLabs v4,1,-0.9470877647399902
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_phone,ElevenLabs v4 (via phone line),1,-1.7801153659820557
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_clean,ElevenLabs v4,1,-2.0224459171295166
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_phone,ElevenLabs v4 (via phone line),1,-8.533601760864258
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_clean,ElevenLabs v4,1,-2.487431526184082
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_phone,ElevenLabs v4 (via phone line),1,-7.443068504333496
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_clean,ElevenLabs v4,1,-3.3685989379882812
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_phone,ElevenLabs v4 (via phone line),1,-7.157458782196045
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_clean,ElevenLabs v4,1,-4.981227874755859
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_phone,ElevenLabs v4 (via phone line),1,-7.803854942321777
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_clean,ElevenLabs v4,1,-7.059126853942871
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.005325794219971
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_clean,ElevenLabs v4,1,-2.2754149436950684
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_phone,ElevenLabs v4 (via phone line),1,0.6549195647239685
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_clean,ElevenLabs v4,1,-9.917245864868164
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-10.274840354919434
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_clean,ElevenLabs v4,1,-1.8424654006958008
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_phone,ElevenLabs v4 (via phone line),1,-7.444056510925293
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_clean,ElevenLabs v4,1,-1.6333013772964478
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.012267112731934
+NII MMS-1B,data/clips/ai_clean/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_clean,ElevenLabs v4,1,-3.088827133178711
+NII MMS-1B,data/clips/ai_phone/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_phone,ElevenLabs v4 (via phone line),1,-3.0475168228149414
+NII MMS-1B,data/clips/ai_clean/el2_00.wav,ai_clean,ElevenLabs multilingual v2,1,-3.530733585357666
+NII MMS-1B,data/clips/ai_phone/el2_00.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-7.16800594329834
+NII MMS-1B,data/clips/ai_clean/el2_01.wav,ai_clean,ElevenLabs multilingual v2,1,-1.1414448022842407
+NII MMS-1B,data/clips/ai_phone/el2_01.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-5.861881732940674
+NII MMS-1B,data/clips/ai_clean/el2_02.wav,ai_clean,ElevenLabs multilingual v2,1,-3.2377607822418213
+NII MMS-1B,data/clips/ai_phone/el2_02.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-3.494467258453369
+NII MMS-1B,data/clips/ai_clean/el2_03.wav,ai_clean,ElevenLabs multilingual v2,1,-4.394443511962891
+NII MMS-1B,data/clips/ai_phone/el2_03.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-6.493875503540039
+NII MMS-1B,data/clips/ai_clean/el2_04.wav,ai_clean,ElevenLabs multilingual v2,1,-2.0595364570617676
+NII MMS-1B,data/clips/ai_phone/el2_04.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-4.810927391052246
+NII MMS-1B,data/clips/ai_clean/el2_05.wav,ai_clean,ElevenLabs multilingual v2,1,-3.179749011993408
+NII MMS-1B,data/clips/ai_phone/el2_05.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-5.236280918121338
+NII MMS-1B,data/clips/ai_clean/edge_en-US-AriaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,7.2480878829956055
+NII MMS-1B,data/clips/ai_phone/edge_en-US-AriaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,4.714759349822998
+NII MMS-1B,data/clips/ai_clean/edge_en-US-GuyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,7.01370096206665
+NII MMS-1B,data/clips/ai_phone/edge_en-US-GuyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,3.0963783264160156
+NII MMS-1B,data/clips/ai_clean/edge_en-US-JennyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,7.003553867340088
+NII MMS-1B,data/clips/ai_phone/edge_en-US-JennyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,1.0095219612121582
+NII MMS-1B,data/clips/ai_clean/edge_en-GB-SoniaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,2.215303659439087
+NII MMS-1B,data/clips/ai_phone/edge_en-GB-SoniaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-5.504904270172119
+NII MMS-1B,data/clips/ai_clean/edge_en-US-ChristopherNeural.wav,ai_clean,Microsoft Edge neural TTS,1,6.67088508605957
+NII MMS-1B,data/clips/ai_phone/edge_en-US-ChristopherNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-0.002820093184709549
+NII MMS-1B,data/clips/ai_clean/edge_en-AU-NatashaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,9.824522972106934
+NII MMS-1B,data/clips/ai_phone/edge_en-AU-NatashaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,3.7437472343444824
+NII MMS-1B,data/clips/ai_clean/edge_en-US-EricNeural.wav,ai_clean,Microsoft Edge neural TTS,1,7.10053014755249
+NII MMS-1B,data/clips/ai_phone/edge_en-US-EricNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-2.425464630126953
+NII MMS-1B,data/clips/ai_clean/edge_en-IN-NeerjaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,0.36753183603286743
+NII MMS-1B,data/clips/ai_phone/edge_en-IN-NeerjaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-4.547605514526367
+NII XLS-R-2B,data/clips/real_phone/callhome_5712.wav,real_phone,CallHome English (real phone call),0,-9.35155200958252
+NII XLS-R-2B,data/clips/real_phone/callhome_5931.wav,real_phone,CallHome English (real phone call),0,-9.843238830566406
+NII XLS-R-2B,data/clips/real_phone/callhome_4184.wav,real_phone,CallHome English (real phone call),0,-9.429771423339844
+NII XLS-R-2B,data/clips/real_phone/callhome_4838.wav,real_phone,CallHome English (real phone call),0,-6.691938400268555
+NII XLS-R-2B,data/clips/real_phone/callhome_6456.wav,real_phone,CallHome English (real phone call),0,-9.97585678100586
+NII XLS-R-2B,data/clips/real_phone/callhome_6298.wav,real_phone,CallHome English (real phone call),0,-9.366943359375
+NII XLS-R-2B,data/clips/real_phone/callhome_5866.wav,real_phone,CallHome English (real phone call),0,-9.91839599609375
+NII XLS-R-2B,data/clips/real_phone/callhome_4941.wav,real_phone,CallHome English (real phone call),0,-10.214778900146484
+NII XLS-R-2B,data/clips/real_phone/callhome_6265.wav,real_phone,CallHome English (real phone call),0,-6.505305290222168
+NII XLS-R-2B,data/clips/real_phone/callhome_5388.wav,real_phone,CallHome English (real phone call),0,-7.907526016235352
+NII XLS-R-2B,data/clips/real_phone/callhome_4726.wav,real_phone,CallHome English (real phone call),0,-7.906226634979248
+NII XLS-R-2B,data/clips/real_phone/callhome_4569.wav,real_phone,CallHome English (real phone call),0,-7.770575046539307
+NII XLS-R-2B,data/clips/real_phone/callhome_4902.wav,real_phone,CallHome English (real phone call),0,-9.360158920288086
+NII XLS-R-2B,data/clips/real_phone/callhome_4310.wav,real_phone,CallHome English (real phone call),0,-7.128108978271484
+NII XLS-R-2B,data/clips/real_phone/callhome_5648.wav,real_phone,CallHome English (real phone call),0,-9.188106536865234
+NII XLS-R-2B,data/clips/real_phone/callhome_4245.wav,real_phone,CallHome English (real phone call),0,-7.437988758087158
+NII XLS-R-2B,data/clips/real_phone/callhome_4968.wav,real_phone,CallHome English (real phone call),0,-8.576032638549805
+NII XLS-R-2B,data/clips/real_phone/callhome_5788.wav,real_phone,CallHome English (real phone call),0,-8.83091926574707
+NII XLS-R-2B,data/clips/real_phone/callhome_4544.wav,real_phone,CallHome English (real phone call),0,-8.875846862792969
+NII XLS-R-2B,data/clips/real_phone/callhome_6130.wav,real_phone,CallHome English (real phone call),0,-8.759918212890625
+NII XLS-R-2B,data/clips/real_phone/callhome_4861.wav,real_phone,CallHome English (real phone call),0,-7.9395012855529785
+NII XLS-R-2B,data/clips/real_phone/callhome_5373.wav,real_phone,CallHome English (real phone call),0,-9.227087020874023
+NII XLS-R-2B,data/clips/real_phone/callhome_6479.wav,real_phone,CallHome English (real phone call),0,-7.928170204162598
+NII XLS-R-2B,data/clips/real_phone/callhome_6474.wav,real_phone,CallHome English (real phone call),0,-8.7222900390625
+NII XLS-R-2B,data/clips/real_phone/callhome_6107.wav,real_phone,CallHome English (real phone call),0,-9.457195281982422
+NII XLS-R-2B,data/clips/real_phone/callhome_4315.wav,real_phone,CallHome English (real phone call),0,-9.010169982910156
+NII XLS-R-2B,data/clips/real_phone/callhome_4595.wav,real_phone,CallHome English (real phone call),0,-7.582454204559326
+NII XLS-R-2B,data/clips/real_phone/callhome_6521.wav,real_phone,CallHome English (real phone call),0,-7.34442138671875
+NII XLS-R-2B,data/clips/real_phone/callhome_5532.wav,real_phone,CallHome English (real phone call),0,-9.747517585754395
+NII XLS-R-2B,data/clips/real_phone/callhome_4157.wav,real_phone,CallHome English (real phone call),0,-9.513973236083984
+NII XLS-R-2B,data/clips/real_phone/callhome_6033.wav,real_phone,CallHome English (real phone call),0,-7.977664947509766
+NII XLS-R-2B,data/clips/real_phone/callhome_5273.wav,real_phone,CallHome English (real phone call),0,-7.958698272705078
+NII XLS-R-2B,data/clips/real_phone/callhome_4623.wav,real_phone,CallHome English (real phone call),0,-9.338747024536133
+NII XLS-R-2B,data/clips/real_phone/callhome_4802.wav,real_phone,CallHome English (real phone call),0,-9.441953659057617
+NII XLS-R-2B,data/clips/real_phone/callhome_4887.wav,real_phone,CallHome English (real phone call),0,-7.636853218078613
+NII XLS-R-2B,data/clips/real_phone/callhome_6071.wav,real_phone,CallHome English (real phone call),0,-8.53953742980957
+NII XLS-R-2B,data/clips/real_phone/callhome_4629.wav,real_phone,CallHome English (real phone call),0,-9.6437406539917
+NII XLS-R-2B,data/clips/real_phone/callhome_6447.wav,real_phone,CallHome English (real phone call),0,-9.454532623291016
+NII XLS-R-2B,data/clips/real_phone/callhome_4610.wav,real_phone,CallHome English (real phone call),0,-8.85321044921875
+NII XLS-R-2B,data/clips/real_phone/callhome_4967.wav,real_phone,CallHome English (real phone call),0,-9.331602096557617
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_clean,ElevenLabs v4,1,-4.1745100021362305
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_phone,ElevenLabs v4 (via phone line),1,-7.723767280578613
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_clean,ElevenLabs v4,1,-4.310145378112793
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.5730438232421875
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_clean,ElevenLabs v4,1,-3.666517972946167
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_phone,ElevenLabs v4 (via phone line),1,-1.7875170707702637
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_clean,ElevenLabs v4,1,-1.8455678224563599
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.322861909866333
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_clean,ElevenLabs v4,1,-3.57049298286438
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.009766101837158
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_clean,ElevenLabs v4,1,-2.8518621921539307
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.868380069732666
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_clean,ElevenLabs v4,1,-2.927030563354492
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.589276313781738
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_clean,ElevenLabs v4,1,3.9228687286376953
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.871428489685059
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_clean,ElevenLabs v4,1,-6.4942216873168945
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.620409965515137
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_clean,ElevenLabs v4,1,-2.832322835922241
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.058032035827637
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_clean,ElevenLabs v4,1,-4.39810848236084
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.506688594818115
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_clean,ElevenLabs v4,1,-3.0189294815063477
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_phone,ElevenLabs v4 (via phone line),1,-3.36777925491333
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_clean,ElevenLabs v4,1,0.9820177555084229
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.622739791870117
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_clean,ElevenLabs v4,1,-6.315683364868164
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_phone,ElevenLabs v4 (via phone line),1,-7.023555755615234
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_clean,ElevenLabs v4,1,-3.839266300201416
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.946706771850586
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_clean,ElevenLabs v4,1,5.534012317657471
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.4842357635498047
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_clean,ElevenLabs v4,1,-9.039952278137207
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-8.368675231933594
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_clean,ElevenLabs v4,1,-0.779090166091919
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_phone,ElevenLabs v4 (via phone line),1,-7.420139312744141
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_clean,ElevenLabs v4,1,-4.094505310058594
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.490187644958496
+NII XLS-R-2B,data/clips/ai_clean/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_clean,ElevenLabs v4,1,-3.7188823223114014
+NII XLS-R-2B,data/clips/ai_phone/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_phone,ElevenLabs v4 (via phone line),1,-3.171905994415283
+NII XLS-R-2B,data/clips/ai_clean/el2_00.wav,ai_clean,ElevenLabs multilingual v2,1,-1.176990270614624
+NII XLS-R-2B,data/clips/ai_phone/el2_00.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-6.340688228607178
+NII XLS-R-2B,data/clips/ai_clean/el2_01.wav,ai_clean,ElevenLabs multilingual v2,1,-1.0617812871932983
+NII XLS-R-2B,data/clips/ai_phone/el2_01.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-5.1045331954956055
+NII XLS-R-2B,data/clips/ai_clean/el2_02.wav,ai_clean,ElevenLabs multilingual v2,1,0.3407095670700073
+NII XLS-R-2B,data/clips/ai_phone/el2_02.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-4.53537654876709
+NII XLS-R-2B,data/clips/ai_clean/el2_03.wav,ai_clean,ElevenLabs multilingual v2,1,-2.0344386100769043
+NII XLS-R-2B,data/clips/ai_phone/el2_03.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-6.394901275634766
+NII XLS-R-2B,data/clips/ai_clean/el2_04.wav,ai_clean,ElevenLabs multilingual v2,1,-0.07077521085739136
+NII XLS-R-2B,data/clips/ai_phone/el2_04.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-1.1447372436523438
+NII XLS-R-2B,data/clips/ai_clean/el2_05.wav,ai_clean,ElevenLabs multilingual v2,1,-0.295612633228302
+NII XLS-R-2B,data/clips/ai_phone/el2_05.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,-3.6236226558685303
+NII XLS-R-2B,data/clips/ai_clean/edge_en-US-AriaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,8.103303909301758
+NII XLS-R-2B,data/clips/ai_phone/edge_en-US-AriaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,9.116656303405762
+NII XLS-R-2B,data/clips/ai_clean/edge_en-US-GuyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,3.6472272872924805
+NII XLS-R-2B,data/clips/ai_phone/edge_en-US-GuyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,6.916618824005127
+NII XLS-R-2B,data/clips/ai_clean/edge_en-US-JennyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,8.736361503601074
+NII XLS-R-2B,data/clips/ai_phone/edge_en-US-JennyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,7.440408706665039
+NII XLS-R-2B,data/clips/ai_clean/edge_en-GB-SoniaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,-0.4784353971481323
+NII XLS-R-2B,data/clips/ai_phone/edge_en-GB-SoniaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,2.2987170219421387
+NII XLS-R-2B,data/clips/ai_clean/edge_en-US-ChristopherNeural.wav,ai_clean,Microsoft Edge neural TTS,1,8.853825569152832
+NII XLS-R-2B,data/clips/ai_phone/edge_en-US-ChristopherNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,4.915112495422363
+NII XLS-R-2B,data/clips/ai_clean/edge_en-AU-NatashaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,9.757514953613281
+NII XLS-R-2B,data/clips/ai_phone/edge_en-AU-NatashaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,8.044744491577148
+NII XLS-R-2B,data/clips/ai_clean/edge_en-US-EricNeural.wav,ai_clean,Microsoft Edge neural TTS,1,9.058046340942383
+NII XLS-R-2B,data/clips/ai_phone/edge_en-US-EricNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,7.455414295196533
+NII XLS-R-2B,data/clips/ai_clean/edge_en-IN-NeerjaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,2.3125569820404053
+NII XLS-R-2B,data/clips/ai_phone/edge_en-IN-NeerjaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,-2.1639857292175293
+VeriSpoof-Plus,data/clips/real_phone/callhome_5712.wav,real_phone,CallHome English (real phone call),0,-5.655293941497803
+VeriSpoof-Plus,data/clips/real_phone/callhome_5931.wav,real_phone,CallHome English (real phone call),0,-7.134398460388184
+VeriSpoof-Plus,data/clips/real_phone/callhome_4184.wav,real_phone,CallHome English (real phone call),0,-7.008967399597168
+VeriSpoof-Plus,data/clips/real_phone/callhome_4838.wav,real_phone,CallHome English (real phone call),0,-3.1318860054016113
+VeriSpoof-Plus,data/clips/real_phone/callhome_6456.wav,real_phone,CallHome English (real phone call),0,-7.499876499176025
+VeriSpoof-Plus,data/clips/real_phone/callhome_6298.wav,real_phone,CallHome English (real phone call),0,-6.34378719329834
+VeriSpoof-Plus,data/clips/real_phone/callhome_5866.wav,real_phone,CallHome English (real phone call),0,-6.985686302185059
+VeriSpoof-Plus,data/clips/real_phone/callhome_4941.wav,real_phone,CallHome English (real phone call),0,-7.329051971435547
+VeriSpoof-Plus,data/clips/real_phone/callhome_6265.wav,real_phone,CallHome English (real phone call),0,-5.154422283172607
+VeriSpoof-Plus,data/clips/real_phone/callhome_5388.wav,real_phone,CallHome English (real phone call),0,-3.794729232788086
+VeriSpoof-Plus,data/clips/real_phone/callhome_4726.wav,real_phone,CallHome English (real phone call),0,-5.018712997436523
+VeriSpoof-Plus,data/clips/real_phone/callhome_4569.wav,real_phone,CallHome English (real phone call),0,-5.220369815826416
+VeriSpoof-Plus,data/clips/real_phone/callhome_4902.wav,real_phone,CallHome English (real phone call),0,-5.573172092437744
+VeriSpoof-Plus,data/clips/real_phone/callhome_4310.wav,real_phone,CallHome English (real phone call),0,-6.58350133895874
+VeriSpoof-Plus,data/clips/real_phone/callhome_5648.wav,real_phone,CallHome English (real phone call),0,-5.994288444519043
+VeriSpoof-Plus,data/clips/real_phone/callhome_4245.wav,real_phone,CallHome English (real phone call),0,-5.391885280609131
+VeriSpoof-Plus,data/clips/real_phone/callhome_4968.wav,real_phone,CallHome English (real phone call),0,-8.323819160461426
+VeriSpoof-Plus,data/clips/real_phone/callhome_5788.wav,real_phone,CallHome English (real phone call),0,-4.990457057952881
+VeriSpoof-Plus,data/clips/real_phone/callhome_4544.wav,real_phone,CallHome English (real phone call),0,-5.183923721313477
+VeriSpoof-Plus,data/clips/real_phone/callhome_6130.wav,real_phone,CallHome English (real phone call),0,-5.2359232902526855
+VeriSpoof-Plus,data/clips/real_phone/callhome_4861.wav,real_phone,CallHome English (real phone call),0,-7.270201683044434
+VeriSpoof-Plus,data/clips/real_phone/callhome_5373.wav,real_phone,CallHome English (real phone call),0,-5.881823539733887
+VeriSpoof-Plus,data/clips/real_phone/callhome_6479.wav,real_phone,CallHome English (real phone call),0,-3.4254658222198486
+VeriSpoof-Plus,data/clips/real_phone/callhome_6474.wav,real_phone,CallHome English (real phone call),0,-4.729659080505371
+VeriSpoof-Plus,data/clips/real_phone/callhome_6107.wav,real_phone,CallHome English (real phone call),0,-7.734951496124268
+VeriSpoof-Plus,data/clips/real_phone/callhome_4315.wav,real_phone,CallHome English (real phone call),0,-5.853823661804199
+VeriSpoof-Plus,data/clips/real_phone/callhome_4595.wav,real_phone,CallHome English (real phone call),0,-3.9375877380371094
+VeriSpoof-Plus,data/clips/real_phone/callhome_6521.wav,real_phone,CallHome English (real phone call),0,-2.642643928527832
+VeriSpoof-Plus,data/clips/real_phone/callhome_5532.wav,real_phone,CallHome English (real phone call),0,-5.907547950744629
+VeriSpoof-Plus,data/clips/real_phone/callhome_4157.wav,real_phone,CallHome English (real phone call),0,-7.434561729431152
+VeriSpoof-Plus,data/clips/real_phone/callhome_6033.wav,real_phone,CallHome English (real phone call),0,-5.123428821563721
+VeriSpoof-Plus,data/clips/real_phone/callhome_5273.wav,real_phone,CallHome English (real phone call),0,-6.969295978546143
+VeriSpoof-Plus,data/clips/real_phone/callhome_4623.wav,real_phone,CallHome English (real phone call),0,-1.5752843618392944
+VeriSpoof-Plus,data/clips/real_phone/callhome_4802.wav,real_phone,CallHome English (real phone call),0,-6.4442644119262695
+VeriSpoof-Plus,data/clips/real_phone/callhome_4887.wav,real_phone,CallHome English (real phone call),0,-6.26934289932251
+VeriSpoof-Plus,data/clips/real_phone/callhome_6071.wav,real_phone,CallHome English (real phone call),0,-6.317210674285889
+VeriSpoof-Plus,data/clips/real_phone/callhome_4629.wav,real_phone,CallHome English (real phone call),0,-3.574431896209717
+VeriSpoof-Plus,data/clips/real_phone/callhome_6447.wav,real_phone,CallHome English (real phone call),0,-5.740490913391113
+VeriSpoof-Plus,data/clips/real_phone/callhome_4610.wav,real_phone,CallHome English (real phone call),0,-6.649765491485596
+VeriSpoof-Plus,data/clips/real_phone/callhome_4967.wav,real_phone,CallHome English (real phone call),0,-7.635138034820557
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_clean,ElevenLabs v4,1,3.198064088821411
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.646117210388184
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_clean,ElevenLabs v4,1,9.056812286376953
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.4238057136535645
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_clean,ElevenLabs v4,1,9.34662914276123
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_phone,ElevenLabs v4 (via phone line),1,-3.543043851852417
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_clean,ElevenLabs v4,1,11.602975845336914
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_phone,ElevenLabs v4 (via phone line),1,3.127490758895874
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_clean,ElevenLabs v4,1,11.974540710449219
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.931401252746582
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_clean,ElevenLabs v4,1,6.773002624511719
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.324635028839111
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_clean,ElevenLabs v4,1,12.931522369384766
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.889822959899902
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_clean,ElevenLabs v4,1,7.540074348449707
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.203778266906738
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_clean,ElevenLabs v4,1,10.888671875
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_phone,ElevenLabs v4 (via phone line),1,2.1578152179718018
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_clean,ElevenLabs v4,1,15.499321937561035
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_phone,ElevenLabs v4 (via phone line),1,-2.3297579288482666
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_clean,ElevenLabs v4,1,8.736970901489258
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_phone,ElevenLabs v4 (via phone line),1,2.7228965759277344
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_clean,ElevenLabs v4,1,12.940268516540527
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_phone,ElevenLabs v4 (via phone line),1,1.2965500354766846
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_clean,ElevenLabs v4,1,15.383769035339355
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_phone,ElevenLabs v4 (via phone line),1,7.040650367736816
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_clean,ElevenLabs v4,1,5.381102085113525
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_phone,ElevenLabs v4 (via phone line),1,-3.4429550170898438
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_clean,ElevenLabs v4,1,10.976107597351074
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_phone,ElevenLabs v4 (via phone line),1,-5.370361804962158
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_clean,ElevenLabs v4,1,7.539026260375977
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_phone,ElevenLabs v4 (via phone line),1,-3.099308729171753
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_clean,ElevenLabs v4,1,-2.4613630771636963
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_phone,ElevenLabs v4 (via phone line),1,-6.355901718139648
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_clean,ElevenLabs v4,1,10.927362442016602
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_phone,ElevenLabs v4 (via phone line),1,-0.17838454246520996
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_clean,ElevenLabs v4,1,12.910479545593262
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_phone,ElevenLabs v4 (via phone line),1,-3.2752625942230225
+VeriSpoof-Plus,data/clips/ai_clean/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_clean,ElevenLabs v4,1,10.332301139831543
+VeriSpoof-Plus,data/clips/ai_phone/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_phone,ElevenLabs v4 (via phone line),1,-4.497931003570557
+VeriSpoof-Plus,data/clips/ai_clean/el2_00.wav,ai_clean,ElevenLabs multilingual v2,1,10.822339057922363
+VeriSpoof-Plus,data/clips/ai_phone/el2_00.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,8.658843994140625
+VeriSpoof-Plus,data/clips/ai_clean/el2_01.wav,ai_clean,ElevenLabs multilingual v2,1,15.294977188110352
+VeriSpoof-Plus,data/clips/ai_phone/el2_01.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,11.469125747680664
+VeriSpoof-Plus,data/clips/ai_clean/el2_02.wav,ai_clean,ElevenLabs multilingual v2,1,7.936406135559082
+VeriSpoof-Plus,data/clips/ai_phone/el2_02.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,0.47516465187072754
+VeriSpoof-Plus,data/clips/ai_clean/el2_03.wav,ai_clean,ElevenLabs multilingual v2,1,11.193899154663086
+VeriSpoof-Plus,data/clips/ai_phone/el2_03.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,6.71785306930542
+VeriSpoof-Plus,data/clips/ai_clean/el2_04.wav,ai_clean,ElevenLabs multilingual v2,1,9.78077220916748
+VeriSpoof-Plus,data/clips/ai_phone/el2_04.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,4.694960117340088
+VeriSpoof-Plus,data/clips/ai_clean/el2_05.wav,ai_clean,ElevenLabs multilingual v2,1,11.439311027526855
+VeriSpoof-Plus,data/clips/ai_phone/el2_05.wav,ai_phone,ElevenLabs multilingual v2 (via phone line),1,3.619534730911255
+VeriSpoof-Plus,data/clips/ai_clean/edge_en-US-AriaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,14.067069053649902
+VeriSpoof-Plus,data/clips/ai_phone/edge_en-US-AriaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,9.271368980407715
+VeriSpoof-Plus,data/clips/ai_clean/edge_en-US-GuyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,12.362278938293457
+VeriSpoof-Plus,data/clips/ai_phone/edge_en-US-GuyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,10.392232894897461
+VeriSpoof-Plus,data/clips/ai_clean/edge_en-US-JennyNeural.wav,ai_clean,Microsoft Edge neural TTS,1,12.378357887268066
+VeriSpoof-Plus,data/clips/ai_phone/edge_en-US-JennyNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,6.930137634277344
+VeriSpoof-Plus,data/clips/ai_clean/edge_en-GB-SoniaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,11.93388843536377
+VeriSpoof-Plus,data/clips/ai_phone/edge_en-GB-SoniaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,9.882600784301758
+VeriSpoof-Plus,data/clips/ai_clean/edge_en-US-ChristopherNeural.wav,ai_clean,Microsoft Edge neural TTS,1,11.95788860321045
+VeriSpoof-Plus,data/clips/ai_phone/edge_en-US-ChristopherNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,8.658278465270996
+VeriSpoof-Plus,data/clips/ai_clean/edge_en-AU-NatashaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,11.200122833251953
+VeriSpoof-Plus,data/clips/ai_phone/edge_en-AU-NatashaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,8.780182838439941
+VeriSpoof-Plus,data/clips/ai_clean/edge_en-US-EricNeural.wav,ai_clean,Microsoft Edge neural TTS,1,10.909544944763184
+VeriSpoof-Plus,data/clips/ai_phone/edge_en-US-EricNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,8.585427284240723
+VeriSpoof-Plus,data/clips/ai_clean/edge_en-IN-NeerjaNeural.wav,ai_clean,Microsoft Edge neural TTS,1,13.365100860595703
+VeriSpoof-Plus,data/clips/ai_phone/edge_en-IN-NeerjaNeural.wav,ai_phone,Microsoft Edge neural TTS (via phone line),1,9.031829833984375

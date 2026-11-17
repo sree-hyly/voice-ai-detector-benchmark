@@ -1,0 +1,109 @@
+file,group,is_ai,source,seconds
+data/clips/real_phone/callhome_5712.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_5931.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4184.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4838.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_6456.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_6298.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_5866.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4941.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_6265.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_5388.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4726.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4569.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4902.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4310.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_5648.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4245.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4968.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_5788.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4544.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_6130.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4861.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_5373.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_6479.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_6474.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_6107.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4315.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4595.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_6521.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_5532.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4157.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_6033.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_5273.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4623.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4802.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4887.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_6071.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4629.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_6447.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4610.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/real_phone/callhome_4967.wav,real_phone,0,CallHome English (real phone call),6.0
+data/clips/ai_clean/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s010-en-17951-cjVigY5.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s015-en-17388-FGY2WhT.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s020-en-18410-CwhRBWX.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s028-en-03897-nPczCjz.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s033-en-05889-goT3UYd.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s038-en-08272-cgSgspJ.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s043-en-18872-SAz9YHc.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s051-en-13878-pqHfZKP.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s056-en-09487-onwK4e9.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s061-en-00166-SOYHLrj.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s066-en-11792-XrExE9y.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s071-en-11591-bIHbv24.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s074-en-19032-hpp4J3V.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s079-en-05133-iP95p4x.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s084-en-02066-JBFqnCB.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s089-en-04655-pFZP5JQ.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s094-en-02148-YgjXqgz.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s097-en-12591-Xb7hH8M.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s102-en-01575-IKne3me.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_clean,1,ElevenLabs v4,6.0
+data/clips/ai_phone/el4_elv4-r01-s107-en-03638-qAZH0aM.wav,ai_phone,1,ElevenLabs v4 (via phone line),6.0
+data/clips/ai_clean/el2_00.wav,ai_clean,1,ElevenLabs multilingual v2,6.0
+data/clips/ai_phone/el2_00.wav,ai_phone,1,ElevenLabs multilingual v2 (via phone line),6.0
+data/clips/ai_clean/el2_01.wav,ai_clean,1,ElevenLabs multilingual v2,6.0
+data/clips/ai_phone/el2_01.wav,ai_phone,1,ElevenLabs multilingual v2 (via phone line),6.0
+data/clips/ai_clean/el2_02.wav,ai_clean,1,ElevenLabs multilingual v2,6.0
+data/clips/ai_phone/el2_02.wav,ai_phone,1,ElevenLabs multilingual v2 (via phone line),6.0
+data/clips/ai_clean/el2_03.wav,ai_clean,1,ElevenLabs multilingual v2,6.0
+data/clips/ai_phone/el2_03.wav,ai_phone,1,ElevenLabs multilingual v2 (via phone line),6.0
+data/clips/ai_clean/el2_04.wav,ai_clean,1,ElevenLabs multilingual v2,6.0
+data/clips/ai_phone/el2_04.wav,ai_phone,1,ElevenLabs multilingual v2 (via phone line),6.0
+data/clips/ai_clean/el2_05.wav,ai_clean,1,ElevenLabs multilingual v2,6.0
+data/clips/ai_phone/el2_05.wav,ai_phone,1,ElevenLabs multilingual v2 (via phone line),6.0
+data/clips/ai_clean/edge_en-US-AriaNeural.wav,ai_clean,1,Microsoft Edge neural TTS,6.0
+data/clips/ai_phone/edge_en-US-AriaNeural.wav,ai_phone,1,Microsoft Edge neural TTS (via phone line),6.0
+data/clips/ai_clean/edge_en-US-GuyNeural.wav,ai_clean,1,Microsoft Edge neural TTS,6.0
+data/clips/ai_phone/edge_en-US-GuyNeural.wav,ai_phone,1,Microsoft Edge neural TTS (via phone line),6.0
+data/clips/ai_clean/edge_en-US-JennyNeural.wav,ai_clean,1,Microsoft Edge neural TTS,6.0
+data/clips/ai_phone/edge_en-US-JennyNeural.wav,ai_phone,1,Microsoft Edge neural TTS (via phone line),6.0
+data/clips/ai_clean/edge_en-GB-SoniaNeural.wav,ai_clean,1,Microsoft Edge neural TTS,6.0
+data/clips/ai_phone/edge_en-GB-SoniaNeural.wav,ai_phone,1,Microsoft Edge neural TTS (via phone line),6.0
+data/clips/ai_clean/edge_en-US-ChristopherNeural.wav,ai_clean,1,Microsoft Edge neural TTS,6.0
+data/clips/ai_phone/edge_en-US-ChristopherNeural.wav,ai_phone,1,Microsoft Edge neural TTS (via phone line),6.0
+data/clips/ai_clean/edge_en-AU-NatashaNeural.wav,ai_clean,1,Microsoft Edge neural TTS,6.0
+data/clips/ai_phone/edge_en-AU-NatashaNeural.wav,ai_phone,1,Microsoft Edge neural TTS (via phone line),6.0
+data/clips/ai_clean/edge_en-US-EricNeural.wav,ai_clean,1,Microsoft Edge neural TTS,6.0
+data/clips/ai_phone/edge_en-US-EricNeural.wav,ai_phone,1,Microsoft Edge neural TTS (via phone line),6.0
+data/clips/ai_clean/edge_en-IN-NeerjaNeural.wav,ai_clean,1,Microsoft Edge neural TTS,6.0
+data/clips/ai_phone/edge_en-IN-NeerjaNeural.wav,ai_phone,1,Microsoft Edge neural TTS (via phone line),6.0

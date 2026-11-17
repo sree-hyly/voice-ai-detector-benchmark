@@ -1,0 +1,80 @@
+
+== set 2: AI vs humans, as recorded (built-in cut-off; 60 AI, 56 human)
+                   model accuracy AI caught humans passed  AUC
+                 Pellav2     100%      100%          100% 1.00
+          VeriSpoof-Plus      97%      100%           95% 1.00
+            NII XLS-R-2B      91%       82%          100% 0.99
+              NII MMS-1B      78%       60%           98% 0.98
+wav2vec2-XLSR (Gustking)      74%       55%           95% 0.90
+      ProSDD (ASVspoof5)      53%        8%          100% 0.53
+             W2V2-AASIST      55%       93%           14% 0.35
+                   SONAR      35%        5%           68% 0.34
+                  AASIST      34%       57%           11% 0.16
+   ProSDD (ASVspoof2019)      39%        0%           80% 0.15
+
+== set 2: AI vs humans, both via phone line (built-in cut-off; 60 AI, 56 human)
+                   model accuracy AI caught humans passed  AUC
+          VeriSpoof-Plus      94%       92%           96% 0.99
+                 Pellav2      90%       80%          100% 0.98
+              NII MMS-1B      57%       17%          100% 0.94
+            NII XLS-R-2B      71%       45%           98% 0.94
+wav2vec2-XLSR (Gustking)      56%       22%           93% 0.80
+             W2V2-AASIST      53%       95%            7% 0.39
+                   SONAR      42%       20%           66% 0.37
+      ProSDD (ASVspoof5)      48%        0%          100% 0.32
+                  AASIST      50%       95%            2% 0.31
+   ProSDD (ASVspoof2019)      25%        5%           46% 0.11
+
+== set 2: all clips (built-in cut-off; 120 AI, 112 human)
+                   model accuracy AI caught humans passed  AUC
+          VeriSpoof-Plus      96%       96%           96% 1.00
+                 Pellav2      95%       90%          100% 0.99
+            NII XLS-R-2B      81%       63%           99% 0.97
+              NII MMS-1B      68%       38%           99% 0.96
+wav2vec2-XLSR (Gustking)      65%       38%           94% 0.86
+      ProSDD (ASVspoof5)      50%        4%          100% 0.41
+             W2V2-AASIST      54%       94%           11% 0.37
+                   SONAR      39%       12%           67% 0.35
+                  AASIST      42%       76%            6% 0.26
+   ProSDD (ASVspoof2019)      32%        2%           63% 0.16
+
+== graded on set 2 (cut-off picked on the other set)
+cutoff_kind              built-in balanced strict (≤5% humans flagged)
+model                                                                 
+Pellav2                       95%      96%                         96%
+VeriSpoof-Plus                96%      96%                         96%
+NII XLS-R-2B                  81%      93%                         93%
+NII MMS-1B                    69%      88%                         87%
+wav2vec2-XLSR (Gustking)      66%      55%                         55%
+ProSDD (ASVspoof5)            52%      54%                         54%
+W2V2-AASIST                   52%      50%                         48%
+ProSDD (ASVspoof2019)         33%      50%                         47%
+SONAR                         40%      48%                         46%
+AASIST                        41%      48%                         46%
+
+== graded on set 1 (cut-off picked on the other set)
+cutoff_kind              built-in balanced strict (≤5% humans flagged)
+model                                                                 
+NII XLS-R-2B                  64%      92%                         80%
+Pellav2                       88%      92%                         92%
+VeriSpoof-Plus                88%      88%                         88%
+NII MMS-1B                    60%      84%                         85%
+ProSDD (ASVspoof5)            51%      53%                         53%
+ProSDD (ASVspoof2019)         24%      50%                         48%
+SONAR                         36%      49%                         51%
+wav2vec2-XLSR (Gustking)      44%      47%                         48%
+AASIST                        41%      46%                         50%
+W2V2-AASIST                   43%      39%                         46%
+
+== cut-offs picked on both sets together
+                   model  balanced_cutoff  strict_cutoff  auc_both_sets
+                 Pellav2            -5.71          -6.11           0.98
+          VeriSpoof-Plus            -2.63          -1.94           0.98
+            NII XLS-R-2B            -7.05          -4.91           0.97
+              NII MMS-1B            -5.78          -5.06           0.94
+wav2vec2-XLSR (Gustking)            -2.05           1.72           0.76
+      ProSDD (ASVspoof5)           -13.37         -13.77           0.45
+             W2V2-AASIST            -9.06          12.83           0.36
+                   SONAR            -6.39           2.04           0.35
+                  AASIST            -5.39          14.24           0.25
+   ProSDD (ASVspoof2019)           -11.27           9.78           0.21
