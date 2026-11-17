@@ -1,0 +1,46 @@
+train: 340 clips; test: 1460 clips, 146 voices
+
+== Same people, same sentences: share passed as human (protocol 1, ≤5% cut-off)
+humans                AI-restored (FLEURS-R)  original recordings
+combo                                                            
+Pellav2 alone                           17.0                 75.0
+VeriSpoof-Plus alone                    56.0                 98.0
+average                                 26.0                 86.0
+either flags                            25.0                 84.0
+learned weighting                       20.0                 82.0
+
+== PROTOCOL 1: tuned on sets 1+2, graded on clone set 3
+               combo            cut-off   AI caught  humans passed   AUC
+       Pellav2 alone           built-in 90% (87–93)    90% (88–92) 0.965
+       Pellav2 alone ≤5% humans flagged 96% (94–98)    77% (75–78) 0.965
+       Pellav2 alone ≤1% humans flagged 92% (89–95)    85% (83–87) 0.965
+VeriSpoof-Plus alone           built-in 81% (77–84)   99% (98–100) 0.971
+VeriSpoof-Plus alone ≤5% humans flagged 87% (84–90)    97% (94–98) 0.971
+VeriSpoof-Plus alone ≤1% humans flagged 77% (73–81)   99% (98–100) 0.971
+        either flags           built-in 94% (91–96)    89% (87–91) 0.975
+        either flags ≤5% humans flagged 96% (94–98)    85% (82–87) 0.975
+        either flags ≤1% humans flagged 94% (91–96)    89% (87–91) 0.975
+      both must flag           built-in 74% (69–78) 100% (100–100) 0.976
+      both must flag ≤5% humans flagged 95% (92–97)    88% (86–90) 0.976
+      both must flag ≤1% humans flagged 91% (88–94)    96% (94–97) 0.976
+             average           built-in 90% (87–93)    96% (95–98) 0.980
+             average ≤5% humans flagged 96% (94–98)    86% (83–88) 0.980
+             average ≤1% humans flagged 94% (91–96)    89% (87–91) 0.980
+   learned weighting           built-in 96% (94–98)    83% (82–85) 0.978
+   learned weighting ≤5% humans flagged 97% (95–99)    82% (80–84) 0.978
+   learned weighting ≤1% humans flagged 95% (93–98)    85% (83–86) 0.978
+
+== PROTOCOL 2: tuned on other voices in set 3 (5-fold), graded on held-out voices
+               combo            cut-off   AI caught humans passed   AUC
+       Pellav2 alone ≤5% humans flagged 85% (80–89)   95% (93–96) 0.965
+       Pellav2 alone ≤1% humans flagged 66% (62–71)   99% (98–99) 0.965
+VeriSpoof-Plus alone ≤5% humans flagged 89% (85–92)   95% (92–97) 0.971
+VeriSpoof-Plus alone ≤1% humans flagged 78% (74–82)  99% (98–100) 0.971
+        either flags ≤5% humans flagged 88% (84–91)   95% (93–96) 0.975
+        either flags ≤1% humans flagged 74% (69–79)   99% (98–99) 0.975
+      both must flag ≤5% humans flagged 92% (89–94)   95% (93–96) 0.976
+      both must flag ≤1% humans flagged 84% (80–87)  99% (98–100) 0.976
+             average ≤5% humans flagged 91% (88–94)   95% (93–96) 0.980
+             average ≤1% humans flagged 86% (82–89)  99% (98–100) 0.980
+   learned weighting ≤5% humans flagged 94% (92–96)   95% (93–96) 0.981
+   learned weighting ≤1% humans flagged 87% (83–90)  99% (98–100) 0.981

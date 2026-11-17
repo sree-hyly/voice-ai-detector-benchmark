@@ -6,3 +6,7 @@ data/downloads/
 data/clips/**/*.wav
 data/clips_b/**/*.wav
 results/*.log
+cloners/.venv-*/
+cloners/*.log
+data/clips_c/**/*.wav
+data/clips_c/_tmp*

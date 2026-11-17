@@ -1,0 +1,11 @@
+combo,humans,passed
+Pellav2 alone,original recordings,0.7533333333333333
+Pellav2 alone,AI-restored (FLEURS-R),0.17333333333333334
+VeriSpoof-Plus alone,original recordings,0.9822222222222222
+VeriSpoof-Plus alone,AI-restored (FLEURS-R),0.5577777777777778
+either flags,original recordings,0.8444444444444444
+either flags,AI-restored (FLEURS-R),0.24888888888888888
+average,original recordings,0.8555555555555555
+average,AI-restored (FLEURS-R),0.25555555555555554
+learned weighting,original recordings,0.8155555555555556
+learned weighting,AI-restored (FLEURS-R),0.20444444444444446

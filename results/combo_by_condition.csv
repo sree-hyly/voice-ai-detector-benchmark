@@ -1,0 +1,301 @@
+protocol,combo,cutoff_kind,channel,is_ai,share_called_ai
+1,Pellav2 alone,built-in,as recorded,0,0.0
+1,Pellav2 alone,built-in,as recorded,1,0.952054794520548
+1,Pellav2 alone,built-in,internet call (Opus 12k),0,0.00684931506849315
+1,Pellav2 alone,built-in,internet call (Opus 12k),1,0.9041095890410958
+1,Pellav2 alone,built-in,landline (G.711),0,0.0136986301369863
+1,Pellav2 alone,built-in,landline (G.711),1,0.8767123287671232
+1,Pellav2 alone,built-in,mobile (AMR-NB),0,0.00684931506849315
+1,Pellav2 alone,built-in,mobile (AMR-NB),1,0.815068493150685
+1,Pellav2 alone,built-in,mobile + background chatter,0,0.4794520547945205
+1,Pellav2 alone,built-in,mobile + background chatter,1,0.958904109589041
+1,Pellav2 alone,≤5% humans flagged,as recorded,0,0.00684931506849315
+1,Pellav2 alone,≤5% humans flagged,as recorded,1,0.9657534246575342
+1,Pellav2 alone,≤5% humans flagged,internet call (Opus 12k),0,0.06164383561643835
+1,Pellav2 alone,≤5% humans flagged,internet call (Opus 12k),1,0.952054794520548
+1,Pellav2 alone,≤5% humans flagged,landline (G.711),0,0.13013698630136986
+1,Pellav2 alone,≤5% humans flagged,landline (G.711),1,0.9657534246575342
+1,Pellav2 alone,≤5% humans flagged,mobile (AMR-NB),0,0.04794520547945205
+1,Pellav2 alone,≤5% humans flagged,mobile (AMR-NB),1,0.9246575342465754
+1,Pellav2 alone,≤5% humans flagged,mobile + background chatter,0,0.9246575342465754
+1,Pellav2 alone,≤5% humans flagged,mobile + background chatter,1,0.9931506849315068
+1,Pellav2 alone,≤1% humans flagged,as recorded,0,0.0
+1,Pellav2 alone,≤1% humans flagged,as recorded,1,0.958904109589041
+1,Pellav2 alone,≤1% humans flagged,internet call (Opus 12k),0,0.02054794520547945
+1,Pellav2 alone,≤1% humans flagged,internet call (Opus 12k),1,0.9246575342465754
+1,Pellav2 alone,≤1% humans flagged,landline (G.711),0,0.02054794520547945
+1,Pellav2 alone,≤1% humans flagged,landline (G.711),1,0.910958904109589
+1,Pellav2 alone,≤1% humans flagged,mobile (AMR-NB),0,0.0136986301369863
+1,Pellav2 alone,≤1% humans flagged,mobile (AMR-NB),1,0.8561643835616438
+1,Pellav2 alone,≤1% humans flagged,mobile + background chatter,0,0.6917808219178082
+1,Pellav2 alone,≤1% humans flagged,mobile + background chatter,1,0.9726027397260274
+1,VeriSpoof-Plus alone,built-in,as recorded,0,0.00684931506849315
+1,VeriSpoof-Plus alone,built-in,as recorded,1,0.9931506849315068
+1,VeriSpoof-Plus alone,built-in,internet call (Opus 12k),0,0.0136986301369863
+1,VeriSpoof-Plus alone,built-in,internet call (Opus 12k),1,0.8287671232876712
+1,VeriSpoof-Plus alone,built-in,landline (G.711),0,0.0
+1,VeriSpoof-Plus alone,built-in,landline (G.711),1,0.910958904109589
+1,VeriSpoof-Plus alone,built-in,mobile (AMR-NB),0,0.00684931506849315
+1,VeriSpoof-Plus alone,built-in,mobile (AMR-NB),1,0.726027397260274
+1,VeriSpoof-Plus alone,built-in,mobile + background chatter,0,0.02054794520547945
+1,VeriSpoof-Plus alone,built-in,mobile + background chatter,1,0.5684931506849316
+1,VeriSpoof-Plus alone,≤5% humans flagged,as recorded,0,0.02054794520547945
+1,VeriSpoof-Plus alone,≤5% humans flagged,as recorded,1,0.9931506849315068
+1,VeriSpoof-Plus alone,≤5% humans flagged,internet call (Opus 12k),0,0.07534246575342465
+1,VeriSpoof-Plus alone,≤5% humans flagged,internet call (Opus 12k),1,0.9178082191780822
+1,VeriSpoof-Plus alone,≤5% humans flagged,landline (G.711),0,0.0136986301369863
+1,VeriSpoof-Plus alone,≤5% humans flagged,landline (G.711),1,0.9383561643835616
+1,VeriSpoof-Plus alone,≤5% humans flagged,mobile (AMR-NB),0,0.0136986301369863
+1,VeriSpoof-Plus alone,≤5% humans flagged,mobile (AMR-NB),1,0.8287671232876712
+1,VeriSpoof-Plus alone,≤5% humans flagged,mobile + background chatter,0,0.0410958904109589
+1,VeriSpoof-Plus alone,≤5% humans flagged,mobile + background chatter,1,0.684931506849315
+1,VeriSpoof-Plus alone,≤1% humans flagged,as recorded,0,0.00684931506849315
+1,VeriSpoof-Plus alone,≤1% humans flagged,as recorded,1,0.9931506849315068
+1,VeriSpoof-Plus alone,≤1% humans flagged,internet call (Opus 12k),0,0.0136986301369863
+1,VeriSpoof-Plus alone,≤1% humans flagged,internet call (Opus 12k),1,0.7808219178082192
+1,VeriSpoof-Plus alone,≤1% humans flagged,landline (G.711),0,0.0
+1,VeriSpoof-Plus alone,≤1% humans flagged,landline (G.711),1,0.863013698630137
+1,VeriSpoof-Plus alone,≤1% humans flagged,mobile (AMR-NB),0,0.00684931506849315
+1,VeriSpoof-Plus alone,≤1% humans flagged,mobile (AMR-NB),1,0.6643835616438356
+1,VeriSpoof-Plus alone,≤1% humans flagged,mobile + background chatter,0,0.02054794520547945
+1,VeriSpoof-Plus alone,≤1% humans flagged,mobile + background chatter,1,0.5547945205479452
+1,either flags,built-in,as recorded,0,0.00684931506849315
+1,either flags,built-in,as recorded,1,0.9931506849315068
+1,either flags,built-in,internet call (Opus 12k),0,0.02054794520547945
+1,either flags,built-in,internet call (Opus 12k),1,0.9315068493150684
+1,either flags,built-in,landline (G.711),0,0.0136986301369863
+1,either flags,built-in,landline (G.711),1,0.9452054794520548
+1,either flags,built-in,mobile (AMR-NB),0,0.0136986301369863
+1,either flags,built-in,mobile (AMR-NB),1,0.863013698630137
+1,either flags,built-in,mobile + background chatter,0,0.4931506849315068
+1,either flags,built-in,mobile + background chatter,1,0.958904109589041
+1,either flags,≤5% humans flagged,as recorded,0,0.02054794520547945
+1,either flags,≤5% humans flagged,as recorded,1,0.9931506849315068
+1,either flags,≤5% humans flagged,internet call (Opus 12k),0,0.08904109589041095
+1,either flags,≤5% humans flagged,internet call (Opus 12k),1,0.958904109589041
+1,either flags,≤5% humans flagged,landline (G.711),0,0.03424657534246575
+1,either flags,≤5% humans flagged,landline (G.711),1,0.9726027397260274
+1,either flags,≤5% humans flagged,mobile (AMR-NB),0,0.02054794520547945
+1,either flags,≤5% humans flagged,mobile (AMR-NB),1,0.9178082191780822
+1,either flags,≤5% humans flagged,mobile + background chatter,0,0.5958904109589042
+1,either flags,≤5% humans flagged,mobile + background chatter,1,0.9657534246575342
+1,either flags,≤1% humans flagged,as recorded,0,0.00684931506849315
+1,either flags,≤1% humans flagged,as recorded,1,0.9931506849315068
+1,either flags,≤1% humans flagged,internet call (Opus 12k),0,0.02054794520547945
+1,either flags,≤1% humans flagged,internet call (Opus 12k),1,0.9315068493150684
+1,either flags,≤1% humans flagged,landline (G.711),0,0.0136986301369863
+1,either flags,≤1% humans flagged,landline (G.711),1,0.9452054794520548
+1,either flags,≤1% humans flagged,mobile (AMR-NB),0,0.0136986301369863
+1,either flags,≤1% humans flagged,mobile (AMR-NB),1,0.863013698630137
+1,either flags,≤1% humans flagged,mobile + background chatter,0,0.4931506849315068
+1,either flags,≤1% humans flagged,mobile + background chatter,1,0.958904109589041
+1,both must flag,built-in,as recorded,0,0.0
+1,both must flag,built-in,as recorded,1,0.952054794520548
+1,both must flag,built-in,internet call (Opus 12k),0,0.0
+1,both must flag,built-in,internet call (Opus 12k),1,0.7534246575342466
+1,both must flag,built-in,landline (G.711),0,0.0
+1,both must flag,built-in,landline (G.711),1,0.7945205479452054
+1,both must flag,built-in,mobile (AMR-NB),0,0.0
+1,both must flag,built-in,mobile (AMR-NB),1,0.6232876712328768
+1,both must flag,built-in,mobile + background chatter,0,0.00684931506849315
+1,both must flag,built-in,mobile + background chatter,1,0.5547945205479452
+1,both must flag,≤5% humans flagged,as recorded,0,0.00684931506849315
+1,both must flag,≤5% humans flagged,as recorded,1,0.9657534246575342
+1,both must flag,≤5% humans flagged,internet call (Opus 12k),0,0.0410958904109589
+1,both must flag,≤5% humans flagged,internet call (Opus 12k),1,0.952054794520548
+1,both must flag,≤5% humans flagged,landline (G.711),0,0.0136986301369863
+1,both must flag,≤5% humans flagged,landline (G.711),1,0.958904109589041
+1,both must flag,≤5% humans flagged,mobile (AMR-NB),0,0.02054794520547945
+1,both must flag,≤5% humans flagged,mobile (AMR-NB),1,0.8972602739726028
+1,both must flag,≤5% humans flagged,mobile + background chatter,0,0.5136986301369864
+1,both must flag,≤5% humans flagged,mobile + background chatter,1,0.958904109589041
+1,both must flag,≤1% humans flagged,as recorded,0,0.0
+1,both must flag,≤1% humans flagged,as recorded,1,0.958904109589041
+1,both must flag,≤1% humans flagged,internet call (Opus 12k),0,0.00684931506849315
+1,both must flag,≤1% humans flagged,internet call (Opus 12k),1,0.9315068493150684
+1,both must flag,≤1% humans flagged,landline (G.711),0,0.0
+1,both must flag,≤1% humans flagged,landline (G.711),1,0.910958904109589
+1,both must flag,≤1% humans flagged,mobile (AMR-NB),0,0.00684931506849315
+1,both must flag,≤1% humans flagged,mobile (AMR-NB),1,0.8493150684931506
+1,both must flag,≤1% humans flagged,mobile + background chatter,0,0.19863013698630136
+1,both must flag,≤1% humans flagged,mobile + background chatter,1,0.8904109589041096
+1,average,built-in,as recorded,0,0.0
+1,average,built-in,as recorded,1,0.9657534246575342
+1,average,built-in,internet call (Opus 12k),0,0.0
+1,average,built-in,internet call (Opus 12k),1,0.8972602739726028
+1,average,built-in,landline (G.711),0,0.0
+1,average,built-in,landline (G.711),1,0.9315068493150684
+1,average,built-in,mobile (AMR-NB),0,0.00684931506849315
+1,average,built-in,mobile (AMR-NB),1,0.8013698630136986
+1,average,built-in,mobile + background chatter,0,0.1780821917808219
+1,average,built-in,mobile + background chatter,1,0.9178082191780822
+1,average,≤5% humans flagged,as recorded,0,0.0136986301369863
+1,average,≤5% humans flagged,as recorded,1,0.9931506849315068
+1,average,≤5% humans flagged,internet call (Opus 12k),0,0.06164383561643835
+1,average,≤5% humans flagged,internet call (Opus 12k),1,0.958904109589041
+1,average,≤5% humans flagged,landline (G.711),0,0.0273972602739726
+1,average,≤5% humans flagged,landline (G.711),1,0.9726027397260274
+1,average,≤5% humans flagged,mobile (AMR-NB),0,0.02054794520547945
+1,average,≤5% humans flagged,mobile (AMR-NB),1,0.9178082191780822
+1,average,≤5% humans flagged,mobile + background chatter,0,0.589041095890411
+1,average,≤5% humans flagged,mobile + background chatter,1,0.9657534246575342
+1,average,≤1% humans flagged,as recorded,0,0.00684931506849315
+1,average,≤1% humans flagged,as recorded,1,0.9931506849315068
+1,average,≤1% humans flagged,internet call (Opus 12k),0,0.02054794520547945
+1,average,≤1% humans flagged,internet call (Opus 12k),1,0.9315068493150684
+1,average,≤1% humans flagged,landline (G.711),0,0.0136986301369863
+1,average,≤1% humans flagged,landline (G.711),1,0.9452054794520548
+1,average,≤1% humans flagged,mobile (AMR-NB),0,0.0136986301369863
+1,average,≤1% humans flagged,mobile (AMR-NB),1,0.863013698630137
+1,average,≤1% humans flagged,mobile + background chatter,0,0.4931506849315068
+1,average,≤1% humans flagged,mobile + background chatter,1,0.958904109589041
+1,learned weighting,built-in,as recorded,0,0.00684931506849315
+1,learned weighting,built-in,as recorded,1,0.9931506849315068
+1,learned weighting,built-in,internet call (Opus 12k),0,0.03424657534246575
+1,learned weighting,built-in,internet call (Opus 12k),1,0.958904109589041
+1,learned weighting,built-in,landline (G.711),0,0.0273972602739726
+1,learned weighting,built-in,landline (G.711),1,0.9726027397260274
+1,learned weighting,built-in,mobile (AMR-NB),0,0.0136986301369863
+1,learned weighting,built-in,mobile (AMR-NB),1,0.9178082191780822
+1,learned weighting,built-in,mobile + background chatter,0,0.7465753424657534
+1,learned weighting,built-in,mobile + background chatter,1,0.9794520547945206
+1,learned weighting,≤5% humans flagged,as recorded,0,0.00684931506849315
+1,learned weighting,≤5% humans flagged,as recorded,1,0.9931506849315068
+1,learned weighting,≤5% humans flagged,internet call (Opus 12k),0,0.0547945205479452
+1,learned weighting,≤5% humans flagged,internet call (Opus 12k),1,0.9657534246575342
+1,learned weighting,≤5% humans flagged,landline (G.711),0,0.0273972602739726
+1,learned weighting,≤5% humans flagged,landline (G.711),1,0.9726027397260274
+1,learned weighting,≤5% humans flagged,mobile (AMR-NB),0,0.03424657534246575
+1,learned weighting,≤5% humans flagged,mobile (AMR-NB),1,0.9452054794520548
+1,learned weighting,≤5% humans flagged,mobile + background chatter,0,0.7808219178082192
+1,learned weighting,≤5% humans flagged,mobile + background chatter,1,0.9863013698630136
+1,learned weighting,≤1% humans flagged,as recorded,0,0.0
+1,learned weighting,≤1% humans flagged,as recorded,1,0.9794520547945206
+1,learned weighting,≤1% humans flagged,internet call (Opus 12k),0,0.0273972602739726
+1,learned weighting,≤1% humans flagged,internet call (Opus 12k),1,0.958904109589041
+1,learned weighting,≤1% humans flagged,landline (G.711),0,0.02054794520547945
+1,learned weighting,≤1% humans flagged,landline (G.711),1,0.952054794520548
+1,learned weighting,≤1% humans flagged,mobile (AMR-NB),0,0.0136986301369863
+1,learned weighting,≤1% humans flagged,mobile (AMR-NB),1,0.910958904109589
+1,learned weighting,≤1% humans flagged,mobile + background chatter,0,0.6986301369863014
+1,learned weighting,≤1% humans flagged,mobile + background chatter,1,0.9726027397260274
+2,Pellav2 alone,≤5% humans flagged,as recorded,0,0.0
+2,Pellav2 alone,≤5% humans flagged,as recorded,1,0.9383561643835616
+2,Pellav2 alone,≤5% humans flagged,internet call (Opus 12k),0,0.0
+2,Pellav2 alone,≤5% humans flagged,internet call (Opus 12k),1,0.8835616438356164
+2,Pellav2 alone,≤5% humans flagged,landline (G.711),0,0.0
+2,Pellav2 alone,≤5% humans flagged,landline (G.711),1,0.7328767123287672
+2,Pellav2 alone,≤5% humans flagged,mobile (AMR-NB),0,0.00684931506849315
+2,Pellav2 alone,≤5% humans flagged,mobile (AMR-NB),1,0.7671232876712328
+2,Pellav2 alone,≤5% humans flagged,mobile + background chatter,0,0.2602739726027397
+2,Pellav2 alone,≤5% humans flagged,mobile + background chatter,1,0.9041095890410958
+2,Pellav2 alone,≤1% humans flagged,as recorded,0,0.0
+2,Pellav2 alone,≤1% humans flagged,as recorded,1,0.910958904109589
+2,Pellav2 alone,≤1% humans flagged,internet call (Opus 12k),0,0.0
+2,Pellav2 alone,≤1% humans flagged,internet call (Opus 12k),1,0.821917808219178
+2,Pellav2 alone,≤1% humans flagged,landline (G.711),0,0.0
+2,Pellav2 alone,≤1% humans flagged,landline (G.711),1,0.3904109589041096
+2,Pellav2 alone,≤1% humans flagged,mobile (AMR-NB),0,0.0
+2,Pellav2 alone,≤1% humans flagged,mobile (AMR-NB),1,0.5342465753424658
+2,Pellav2 alone,≤1% humans flagged,mobile + background chatter,0,0.06164383561643835
+2,Pellav2 alone,≤1% humans flagged,mobile + background chatter,1,0.6643835616438356
+2,VeriSpoof-Plus alone,≤5% humans flagged,as recorded,0,0.0273972602739726
+2,VeriSpoof-Plus alone,≤5% humans flagged,as recorded,1,0.9931506849315068
+2,VeriSpoof-Plus alone,≤5% humans flagged,internet call (Opus 12k),0,0.10273972602739725
+2,VeriSpoof-Plus alone,≤5% humans flagged,internet call (Opus 12k),1,0.9178082191780822
+2,VeriSpoof-Plus alone,≤5% humans flagged,landline (G.711),0,0.0273972602739726
+2,VeriSpoof-Plus alone,≤5% humans flagged,landline (G.711),1,0.952054794520548
+2,VeriSpoof-Plus alone,≤5% humans flagged,mobile (AMR-NB),0,0.0273972602739726
+2,VeriSpoof-Plus alone,≤5% humans flagged,mobile (AMR-NB),1,0.863013698630137
+2,VeriSpoof-Plus alone,≤5% humans flagged,mobile + background chatter,0,0.0821917808219178
+2,VeriSpoof-Plus alone,≤5% humans flagged,mobile + background chatter,1,0.7191780821917808
+2,VeriSpoof-Plus alone,≤1% humans flagged,as recorded,0,0.00684931506849315
+2,VeriSpoof-Plus alone,≤1% humans flagged,as recorded,1,0.9931506849315068
+2,VeriSpoof-Plus alone,≤1% humans flagged,internet call (Opus 12k),0,0.0136986301369863
+2,VeriSpoof-Plus alone,≤1% humans flagged,internet call (Opus 12k),1,0.773972602739726
+2,VeriSpoof-Plus alone,≤1% humans flagged,landline (G.711),0,0.0
+2,VeriSpoof-Plus alone,≤1% humans flagged,landline (G.711),1,0.8698630136986302
+2,VeriSpoof-Plus alone,≤1% humans flagged,mobile (AMR-NB),0,0.00684931506849315
+2,VeriSpoof-Plus alone,≤1% humans flagged,mobile (AMR-NB),1,0.6986301369863014
+2,VeriSpoof-Plus alone,≤1% humans flagged,mobile + background chatter,0,0.02054794520547945
+2,VeriSpoof-Plus alone,≤1% humans flagged,mobile + background chatter,1,0.5821917808219178
+2,either flags,≤5% humans flagged,as recorded,0,0.0
+2,either flags,≤5% humans flagged,as recorded,1,0.9657534246575342
+2,either flags,≤5% humans flagged,internet call (Opus 12k),0,0.00684931506849315
+2,either flags,≤5% humans flagged,internet call (Opus 12k),1,0.8835616438356164
+2,either flags,≤5% humans flagged,landline (G.711),0,0.0
+2,either flags,≤5% humans flagged,landline (G.711),1,0.8561643835616438
+2,either flags,≤5% humans flagged,mobile (AMR-NB),0,0.00684931506849315
+2,either flags,≤5% humans flagged,mobile (AMR-NB),1,0.7808219178082192
+2,either flags,≤5% humans flagged,mobile + background chatter,0,0.2602739726027397
+2,either flags,≤5% humans flagged,mobile + background chatter,1,0.8972602739726028
+2,either flags,≤1% humans flagged,as recorded,0,0.0
+2,either flags,≤1% humans flagged,as recorded,1,0.9452054794520548
+2,either flags,≤1% humans flagged,internet call (Opus 12k),0,0.0
+2,either flags,≤1% humans flagged,internet call (Opus 12k),1,0.815068493150685
+2,either flags,≤1% humans flagged,landline (G.711),0,0.0
+2,either flags,≤1% humans flagged,landline (G.711),1,0.6643835616438356
+2,either flags,≤1% humans flagged,mobile (AMR-NB),0,0.0
+2,either flags,≤1% humans flagged,mobile (AMR-NB),1,0.6027397260273972
+2,either flags,≤1% humans flagged,mobile + background chatter,0,0.0684931506849315
+2,either flags,≤1% humans flagged,mobile + background chatter,1,0.684931506849315
+2,both must flag,≤5% humans flagged,as recorded,0,0.0
+2,both must flag,≤5% humans flagged,as recorded,1,0.958904109589041
+2,both must flag,≤5% humans flagged,internet call (Opus 12k),0,0.00684931506849315
+2,both must flag,≤5% humans flagged,internet call (Opus 12k),1,0.9383561643835616
+2,both must flag,≤5% humans flagged,landline (G.711),0,0.0
+2,both must flag,≤5% humans flagged,landline (G.711),1,0.9315068493150684
+2,both must flag,≤5% humans flagged,mobile (AMR-NB),0,0.0136986301369863
+2,both must flag,≤5% humans flagged,mobile (AMR-NB),1,0.8493150684931506
+2,both must flag,≤5% humans flagged,mobile + background chatter,0,0.2465753424657534
+2,both must flag,≤5% humans flagged,mobile + background chatter,1,0.910958904109589
+2,both must flag,≤1% humans flagged,as recorded,0,0.0
+2,both must flag,≤1% humans flagged,as recorded,1,0.952054794520548
+2,both must flag,≤1% humans flagged,internet call (Opus 12k),0,0.0
+2,both must flag,≤1% humans flagged,internet call (Opus 12k),1,0.8767123287671232
+2,both must flag,≤1% humans flagged,landline (G.711),0,0.0
+2,both must flag,≤1% humans flagged,landline (G.711),1,0.8767123287671232
+2,both must flag,≤1% humans flagged,mobile (AMR-NB),0,0.00684931506849315
+2,both must flag,≤1% humans flagged,mobile (AMR-NB),1,0.7602739726027398
+2,both must flag,≤1% humans flagged,mobile + background chatter,0,0.0410958904109589
+2,both must flag,≤1% humans flagged,mobile + background chatter,1,0.7123287671232876
+2,average,≤5% humans flagged,as recorded,0,0.0
+2,average,≤5% humans flagged,as recorded,1,0.9726027397260274
+2,average,≤5% humans flagged,internet call (Opus 12k),0,0.0
+2,average,≤5% humans flagged,internet call (Opus 12k),1,0.8972602739726028
+2,average,≤5% humans flagged,landline (G.711),0,0.0
+2,average,≤5% humans flagged,landline (G.711),1,0.9315068493150684
+2,average,≤5% humans flagged,mobile (AMR-NB),0,0.00684931506849315
+2,average,≤5% humans flagged,mobile (AMR-NB),1,0.8082191780821918
+2,average,≤5% humans flagged,mobile + background chatter,0,0.2602739726027397
+2,average,≤5% humans flagged,mobile + background chatter,1,0.9315068493150684
+2,average,≤1% humans flagged,as recorded,0,0.0
+2,average,≤1% humans flagged,as recorded,1,0.952054794520548
+2,average,≤1% humans flagged,internet call (Opus 12k),0,0.0
+2,average,≤1% humans flagged,internet call (Opus 12k),1,0.8904109589041096
+2,average,≤1% humans flagged,landline (G.711),0,0.0
+2,average,≤1% humans flagged,landline (G.711),1,0.8767123287671232
+2,average,≤1% humans flagged,mobile (AMR-NB),0,0.00684931506849315
+2,average,≤1% humans flagged,mobile (AMR-NB),1,0.7602739726027398
+2,average,≤1% humans flagged,mobile + background chatter,0,0.0410958904109589
+2,average,≤1% humans flagged,mobile + background chatter,1,0.8082191780821918
+2,learned weighting,≤5% humans flagged,as recorded,0,0.00684931506849315
+2,learned weighting,≤5% humans flagged,as recorded,1,0.9931506849315068
+2,learned weighting,≤5% humans flagged,internet call (Opus 12k),0,0.0136986301369863
+2,learned weighting,≤5% humans flagged,internet call (Opus 12k),1,0.952054794520548
+2,learned weighting,≤5% humans flagged,landline (G.711),0,0.0
+2,learned weighting,≤5% humans flagged,landline (G.711),1,0.958904109589041
+2,learned weighting,≤5% humans flagged,mobile (AMR-NB),0,0.0136986301369863
+2,learned weighting,≤5% humans flagged,mobile (AMR-NB),1,0.8904109589041096
+2,learned weighting,≤5% humans flagged,mobile + background chatter,0,0.2328767123287671
+2,learned weighting,≤5% humans flagged,mobile + background chatter,1,0.910958904109589
+2,learned weighting,≤1% humans flagged,as recorded,0,0.0
+2,learned weighting,≤1% humans flagged,as recorded,1,0.9863013698630136
+2,learned weighting,≤1% humans flagged,internet call (Opus 12k),0,0.00684931506849315
+2,learned weighting,≤1% humans flagged,internet call (Opus 12k),1,0.910958904109589
+2,learned weighting,≤1% humans flagged,landline (G.711),0,0.0
+2,learned weighting,≤1% humans flagged,landline (G.711),1,0.9246575342465754
+2,learned weighting,≤1% humans flagged,mobile (AMR-NB),0,0.00684931506849315
+2,learned weighting,≤1% humans flagged,mobile (AMR-NB),1,0.7808219178082192
+2,learned weighting,≤1% humans flagged,mobile + background chatter,0,0.0410958904109589
+2,learned weighting,≤1% humans flagged,mobile + background chatter,1,0.7328767123287672

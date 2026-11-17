@@ -23,12 +23,13 @@ from vad_bench.runners import all_runners  # noqa: E402
 ap = argparse.ArgumentParser()
 ap.add_argument("--smoke", action="store_true")
 ap.add_argument("--only", nargs="*")
-ap.add_argument("--set", choices=["a", "b"], default="a", help="a = set 1 (data/clips), b = set 2 (data/clips_b)")
+ap.add_argument("--set", choices=["a", "b", "c", "c-orig"], default="a", help="a = set 1, b = set 2, c = set 3 (voice clones)")
 args = ap.parse_args()
-CLIPS = ROOT / ("data/clips" if args.set == "a" else "data/clips_b")
-OUT = ROOT / "results" / ("scores.csv" if args.set == "a" else "scores_b.csv")
+MANIFEST = ROOT / {"a": "data/clips/manifest.csv", "b": "data/clips_b/manifest.csv", "c": "data/clips_c/manifest.csv",
+                   "c-orig": "data/clips_c/manifest_orig.csv"}[args.set]
+OUT = ROOT / "results" / {"a": "scores.csv", "b": "scores_b.csv", "c": "scores_c.csv", "c-orig": "scores_c_orig.csv"}[args.set]
 
-man = pd.read_csv(CLIPS / "manifest.csv")
+man = pd.read_csv(MANIFEST)
 if args.smoke:
     man = pd.concat([man[man.is_ai == 0].head(1), man[man.is_ai == 1].head(1)])
 wavs = {f: load_audio(ROOT / f, sr=16000) for f in man.file}
@@ -45,9 +46,8 @@ for r in all_runners():
         r.load()
         t1 = time.time()
         rows = []
-        for i, row in enumerate(man.itertuples()):
-            rows.append({"model": r.name, "file": row.file, "group": row.group, "source": row.source,
-                         "is_ai": row.is_ai, "ai_score": r.ai_score(wavs[row.file])})
+        for row in man.itertuples(index=False):
+            rows.append({"model": r.name, **row._asdict(), "ai_score": r.ai_score(wavs[row.file])})
         t2 = time.time()
         df = pd.DataFrame(rows)
         print(f"{r.name}: loaded {t1 - t0:.0f}s, {len(rows)} clips in {t2 - t1:.0f}s on {r.device}")
